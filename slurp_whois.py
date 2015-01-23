@@ -4,7 +4,9 @@ import sys
 import time
 from os.path import isfile
 top = open("top10000").read().split("\n")
+top = top[1:] # Skip first line - it's a comment
 top = top[:1000] # top 1000 is good enough.
+
 
 for site in top:
     print "Looking at", site
@@ -32,4 +34,4 @@ for site in top:
     open("testcases/" + site, "w").write(stdout)
     print "Waiting...",
     sys.stdout.flush()
-    time.sleep(60)
+    time.sleep(3)
