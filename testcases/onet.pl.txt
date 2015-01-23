@@ -1,0 +1,29 @@
+
+DOMAIN NAME:           onet.pl
+registrant type:       organization
+nameservers:           dns1.onet.pl. [213.180.128.242]
+                       dns2.onet.pl. [213.180.137.160]
+                       dns3.onet.pl. [213.180.147.200]
+                       ns1.ikp.pl. [157.25.5.2][2001:4190:8002:1::302]
+created:               1996.06.22 01:00:00
+last modified:         2014.10.02 16:12:11
+renewal date:          2015.12.31 13:00:00
+
+option created:        2010.08.16 16:52:03
+option expiration date:       2016.08.16 16:52:03
+
+dnssec:                Unsigned
+
+
+REGISTRAR:
+NASK
+ul. Wawozowa 18
+02-796 Warszawa
+Polska/Poland
++48.22 3808300
+info@dns.pl
+
+WHOIS database responses: http://www.dns.pl/english/opiskomunikatow_en.html
+
+WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system
+Registrant data available at http://dns.pl/cgi-bin/en_whois.pl

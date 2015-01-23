@@ -1,0 +1,12 @@
+Domain Name: 91sanguo.cn
+ROID: 20130729s10001s64908893-cn
+Domain Status: ok
+Registrant ID: whois_private
+Registrant: WHOIS PRIVACY PROTECTION SERVICE
+Registrant Contact Email: whois.private.service@gmail.com
+Sponsoring Registrar: Dnbiz Limited
+Name Server: ns1.dnbiz.com
+Name Server: ns2.dnbiz.com
+Registration Date: 2013-07-29 10:54:45
+Expiration Date: 2015-07-29 10:54:45
+DNSSEC: unsigned

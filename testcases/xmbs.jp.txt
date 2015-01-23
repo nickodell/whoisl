@@ -1,0 +1,30 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+Domain Information:
+[Domain Name]                   XMBS.JP
+
+[Registrant]                    AWALKERCo.,Ltd
+
+[Name Server]                   ns1.nng.jp
+[Name Server]                   ns2.nng.jp
+[Signing Key]                   
+
+[Created on]                    2008/03/19
+[Expires on]                    2015/03/31
+[Status]                        Active
+[Last Updated]                  2014/04/01 01:05:12 (JST)
+
+Contact Information:
+[Name]                          Osamu Date,awalker Co.,Ltd
+[Email]                         information@co.awalker.jp
+[Web Page]                      http://co.awalker.jp
+[Postal code]                   658-0085
+[Postal Address]                Sanshiport.Bld
+                                3-1-14Hachiman-dori,Chuouku,Kobe-city
+                                Hyogo-ken
+[Phone]                         078-271-3773
+[Fax]                           078-271-3774
+

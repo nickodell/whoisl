@@ -1,0 +1,13 @@
+Domain Name: poco.cn
+ROID: 20030527s10001s00832275-cn
+Domain Status: clientDeleteProhibited
+Domain Status: clientTransferProhibited
+Registrant ID: hc-325625990-cn
+Registrant: 广州数联软件技术有限公司
+Registrant Contact Email: yy@poco.cn
+Sponsoring Registrar: 北京万网志成科技有限公司
+Name Server: ns1.pocosite.com
+Name Server: ns2.pocosite.com
+Registration Date: 2003-05-27 13:40:07
+Expiration Date: 2016-05-27 13:40:07
+DNSSEC: unsigned

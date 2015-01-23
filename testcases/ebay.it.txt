@@ -1,0 +1,59 @@
+
+*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://www.nic.it/cgi-bin/Whois/whois.cgi                         *
+*********************************************************************
+
+Domain:             ebay.it
+Status:             ok
+Created:            2000-08-11 00:00:00
+Last Update:        2014-10-25 00:45:46
+Expire Date:        2015-10-09
+
+Registrant
+  Organization:     eBay Europe S.a r.l.
+  Address:          22-24 Boulevard Royal, 6th Fl.
+                    Luxembourg
+                    L-2449
+                    Luxembourg
+                    LU
+  Created:          2012-11-02 07:30:19
+  Last Update:      2012-11-02 07:30:19
+
+Admin Contact
+  Name:             Olga Yaguez
+  Organization:     Olga Yaguez
+  Address:          22-24 Boulevard Royal, 6th Fl.
+                    Luxembourg
+                    L-2449
+                    Luxembourg
+                    LU
+  Created:          2012-11-02 07:30:19
+  Last Update:      2012-11-02 07:30:19
+
+Technical Contacts
+  Name:             Olga Yaguez
+  Address:          via Fabio Filzi 25
+                    Milano
+                    20124
+                    MI
+                    IT
+  Created:          2012-11-02 07:30:15
+  Last Update:      2012-11-02 07:30:15
+
+Registrar
+  Organization:     MarkMonitor International Limited
+  Name:             MARKMONITOR-REG
+  Web:              https://www.markmonitor.com/
+
+Nameservers
+  sjc-dns1.ebaydns.com
+  ns1.p47.dynect.net
+  ns2.p47.dynect.net
+  smf-dns1.ebaydns.com
+  sjc-dns2.ebaydns.com
+  smf-dns2.ebaydns.com
+

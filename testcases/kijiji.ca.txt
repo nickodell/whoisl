@@ -1,0 +1,42 @@
+Domain name:           kijiji.ca
+Domain status:         registered
+Creation date:         2005/01/18
+Expiry date:           2016/01/18
+Updated date:          2014/12/17
+DNSSEC:                Unsigned
+
+Registrar:
+    Name:              MarkMonitor International Canada Ltd.
+    Number:            5000040
+
+Registrant:
+    Name:              eBay Canada Ltd.
+
+Administrative contact:
+    Name:              Ryan Quick
+    Postal address:    2 St. Clair Avenue East Suite 701,
+                       Toronto ON M4T2T5 Canada
+    Phone:             +1.4169611970
+    Fax:               +1.4169470866
+    Email:             hostmaster@ebay.com
+
+Technical contact:
+    Name:              Matt Serlin
+    Postal address:    Domain Provisioning,10400 Overland Rd. PMB 155
+                       Boise ID 83709 United States
+    Phone:             +1.2083895740
+    Fax:               +1.2083895771
+    Email:             ccops@markmonitor.com
+
+Name servers:
+    ns4.p13.dynect.net
+    ns1.p13.dynect.net
+    ns3.p13.dynect.net
+    ns2.p13.dynect.net
+
+% WHOIS look-up made at 2015-01-22 16:11:05 (GMT)
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en 
+%
+% (c) 2015 Canadian Internet Registration Authority, (http://www.cira.ca/) 

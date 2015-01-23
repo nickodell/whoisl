@@ -1,0 +1,57 @@
+
+*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://www.nic.it/cgi-bin/Whois/whois.cgi                         *
+*********************************************************************
+
+Domain:             mediaset.it
+Status:             ok
+Created:            1996-02-27 00:00:00
+Last Update:        2014-12-30 00:41:15
+Expire Date:        2015-12-14
+
+Registrant
+  Organization:     Mediaset S.p.A.
+  Address:          Via Pietro Paleocapa, 3
+                    Milano
+                    20121
+                    MI
+                    IT
+  Created:          2011-08-03 10:46:37
+  Last Update:      2011-08-03 10:46:37
+
+Admin Contact
+  Name:             Fedele Confalonieri
+  Organization:     Mediaset S.p.A.
+  Address:          Via Pietro Paleocapa, 3
+                    Milano
+                    20121
+                    Mi
+                    IT
+  Created:          2011-08-03 10:49:47
+  Last Update:      2011-08-03 10:49:47
+
+Technical Contacts
+  Name:             Domain Name Management Service
+  Organization:     BT Italia S.p.A.
+  Address:          BT Italia S.p.A.
+                    Roma
+                    00142
+                    RM
+                    IT
+  Created:          2007-04-03 13:16:14
+  Last Update:      2011-11-21 10:33:35
+
+Registrar
+  Organization:     BT Italia s.p.a.
+  Name:             BTITALIA-REG
+  Web:              http://www.italia.bt.com
+
+Nameservers
+  ns1.rti.it
+  ulisse.albacom.net
+  ns2.rti.it
+

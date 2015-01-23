@@ -1,0 +1,54 @@
+** Registrant:
+   Milliyet Gazetecilik ve Yayıncılık Anonim Şirketi
+   İzzetpaşa Mah.Abide-i Hürriyet Cad.No:162
+   Çağlayan Şişli
+   İstanbul,
+     Türkiye
+   domain@milliyet.com.tr
+   + 90-212-3379581-
+   + 90-212-3379580
+
+
+** Administrative Contact:
+NIC Handle		: mgv67-metu
+Organization Name	: Milliyet Gazetecilik ve Yayıncılık A.Ş.
+Address			: İzzet Paşa Mah. Abide-i Hürriyet Cad. No:162
+			  Çağlayan-Şişli
+			  İstanbul,34387
+			  Türkiye
+Phone			: + 90-212-3379999-
+Fax			: + 
+
+
+** Technical Contact:
+NIC Handle		: mgv67-metu
+Organization Name	: Milliyet Gazetecilik ve Yayıncılık A.Ş.
+Address			: İzzet Paşa Mah. Abide-i Hürriyet Cad. No:162
+			  Çağlayan-Şişli
+			  İstanbul,34387
+			  Türkiye
+Phone			: + 90-212-3379999-
+Fax			: + 
+
+
+** Billing Contact:
+NIC Handle		: mgv67-metu
+Organization Name	: Milliyet Gazetecilik ve Yayıncılık A.Ş.
+Address			: İzzet Paşa Mah. Abide-i Hürriyet Cad. No:162
+			  Çağlayan-Şişli
+			  İstanbul,34387
+			  Türkiye
+Phone			: + 90-212-3379999-
+Fax			: + 
+
+
+** Domain Servers:
+ns01.ttvm.com
+ns02.ttvm.com
+ns03.ttvm.com
+ns04.ttvm.com
+ns05.ttvm.com
+
+** Additional Info:
+Created on..............: 1996-Oct-15.
+Expires on..............: 2016-Oct-14.

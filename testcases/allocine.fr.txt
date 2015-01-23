@@ -1,0 +1,114 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.176.54.181 REQUEST] >> -V Md5.1 allocine.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      allocine.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    PDT32-FRNIC
+admin-c:     LPDT22-FRNIC
+tech-c:      GR283-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL30005-FRNIC
+registrar:   GANDI
+anniversary: 05/03
+created:     15/01/1997
+last-update: 03/02/2012
+source:      FRNIC
+
+ns-list:     NSL30005-FRNIC
+nserver:     ns1.allocine.net
+nserver:     ns2.allocine.net
+nserver:     wns1.allocine.fr [91.121.69.41]
+nserver:     wns2.allocine.fr [91.121.166.196]
+source:      FRNIC
+
+registrar:   GANDI
+type:        Isp Option 1
+address:     63-65 boulevard Massena
+address:     PARIS
+country:     FR
+phone:       +33 1 70 37 76 61
+fax-no:      +33 1 43 73 18 51
+e-mail:      support-fr@support.gandi.net
+website:     http://www.gandi.net
+anonymous:   NO
+registered:  09/03/2004
+source:      FRNIC
+
+nic-hdl:     GR283-FRNIC
+type:        ROLE
+contact:     GANDI ROLE
+address:     Gandi
+address:     15, place de la Nation
+address:     75011 Paris
+country:     FR
+e-mail:      noc@gandi.net
+trouble:     -------------------------------------------------
+trouble:     GANDI is an ICANN accredited registrar
+trouble:     for more information:
+trouble:     Web:   http://www.gandi.net
+trouble:     -------------------------------------------------
+trouble:     - network troubles: noc@gandi.net
+trouble:     - SPAM:             abuse@gandi.net
+trouble:     -------------------------------------------------
+admin-c:     NL346-FRNIC
+tech-c:      NL346-FRNIC
+tech-c:      TUF1-FRNIC
+notify:      noc@gandi.net
+registrar:   GANDI
+changed:     03/03/2006 noc@gandi.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     PDT32-FRNIC
+type:        ORGANIZATION
+contact:     ALLOCINE
+address:     Les productions du Telephone
+address:     63, avenue des champs-elysées
+address:     75008 Paris
+country:     FR
+phone:       +33 1 71 20 00 00
+e-mail:      5b96ea266cd63caace9e056b7a781575-694788@contact.gandi.net
+registrar:   GANDI
+changed:     28/06/2012 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+eligstatus:  ok
+eligsource:  REGISTRAR
+eligdate:    31/05/2012 10:39:34
+source:      FRNIC
+
+nic-hdl:     LPDT22-FRNIC
+type:        ORGANIZATION
+contact:     PRODUCTIONS DU TELEPHONE
+address:     Les Productions du Telephone
+address:     63, avenue des champs-elysees
+address:     75008 Paris
+country:     FR
+phone:       +33 1 71 20 00 00
+fax-no:      +33 1 71 20 00 01
+e-mail:      support@allocine.com
+registrar:   GANDI
+changed:     26/12/2012 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+eligstatus:  ok
+eligsource:  REGISTRAR
+eligdate:    28/06/2012 15:13:54
+source:      FRNIC
+

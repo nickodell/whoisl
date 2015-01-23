@@ -1,0 +1,135 @@
+
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+   Domain Name: T-MOBILE.COM
+   Registrar: DEUTSCHE TELEKOM AG
+   Sponsoring Registrar IANA ID: 226
+   Whois Server: whois.registrar.telekom.de
+   Referral URL: http://www.registrar.telekom.de
+   Name Server: NS1.T-MOBILE.COM
+   Name Server: NS2.T-MOBILE.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 14-jan-2015
+   Creation Date: 13-jan-2000
+   Expiration Date: 13-jan-2016
+
+>>> Last update of whois database: Thu, 22 Jan 2015 17:25:58 GMT <<<
+
+NOTICE: The expiration date displayed in this record is the date the 
+registrar's sponsorship of the domain name registration in the registry is 
+currently set to expire. This date does not necessarily reflect the expiration 
+date of the domain name registrant's agreement with the sponsoring 
+registrar.  Users may consult the sponsoring registrar's Whois database to 
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois 
+database through the use of electronic processes that are high-volume and 
+automated except as reasonably necessary to register domain names or 
+modify existing registrations; the Data in VeriSign Global Registry 
+Services' ("VeriSign") Whois database is provided by VeriSign for 
+information purposes only, and to assist persons in obtaining information 
+about or related to a domain name registration record. VeriSign does not 
+guarantee its accuracy. By submitting a Whois query, you agree to abide 
+by the following terms of use: You agree that you may use this Data only 
+for lawful purposes and that under no circumstances will you use this Data 
+to: (1) allow, enable, or otherwise support the transmission of mass 
+unsolicited, commercial advertising or solicitations via e-mail, telephone, 
+or facsimile; or (2) enable high volume, automated, electronic processes 
+that apply to VeriSign (or its computer systems). The compilation, 
+repackaging, dissemination or other use of this Data is expressly 
+prohibited without the prior written consent of VeriSign. You agree not to 
+use electronic processes that are automated and high-volume to access or 
+query the Whois database except as reasonably necessary to register 
+domain names or modify existing registrations. VeriSign reserves the right 
+to restrict your access to the Whois database in its sole discretion to ensure 
+operational stability.  VeriSign may restrict or terminate your access to the 
+Whois database for failure to abide by these terms of use. VeriSign 
+reserves the right to modify these terms at any time. 
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+For more information on Whois status codes, please visit 
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+% Copyright (c)2003 by Deutsche Telekom AG
+%
+% Restricted rights.
+%
+%
+% Except for agreed Internet operational purposes, no part of this
+% information may be reproduced, stored in a retrieval system, or
+% transmitted, in any form or by any means, electronic, mechanical,
+% recording, or otherwise, without prior permission of the Deutsche Telekom AG
+% on behalf of itself and/or the copyright holders. Any use of this
+% material to target advertising or similar activities are explicitly
+% forbidden and will be prosecuted. The Deutsche Telekom AG requests
+% to be notified of any such activities or suspicions thereof.
+%
+% Query Syntax:
+% DOMAIN:        domainname
+% PERSON:        na name
+% HANDLE:        ha handle
+% DOMAIN full:   full domainname
+
+domain: t-mobile.com
+tech-c: RDT-JD1216
+admin-c: RDT-MS4582
+registrant: RDT-DTA404
+nserver: ns2.t-mobile.com
+nserver: ns1.t-mobile.com
+changed: 2015-01-21
+created: 2000-01-13
+expires: 2016-01-13
+status: locked
+source: DEUTSCHE TELEKOM AG
+
+contact: Owner-C
+nic-hdl: RDT-DTA404
+type: org
+name: Domain Admin
+organisation: Deutsche Telekom AG, Domainmanagement
+address: Friedrich-Ebert-Allee 140
+pcode: 53113
+city: Bonn
+country: DE
+e-mail: domain-admin.bonn@telekom.de
+phone: +49 228 18194033
+fax-no: +49 228 18194402
+source: DEUTSCHE TELEKOM AG
+
+
+contact: Admin-C
+nic-hdl: RDT-MS4582
+type: person
+name: Marion Schoeberl
+organisation: Deutsche Telekom AG, Domainmanagement
+address: Friedrich-Ebert-Allee 140
+pcode: 53113
+city: Bonn
+country: DE
+e-mail: domain-admin.bonn@telekom.de
+phone: +49 228 18194033
+fax-no: +49 228 18194402
+source: DEUTSCHE TELEKOM AG
+
+
+contact: Tech-C
+nic-hdl: RDT-JD1216
+type: person
+name: Josh Dalziel
+address: 11720 North Creek Prkway N , Bothell
+pcode: 98011 WA
+city: Washington
+country: US
+e-mail: josh.dalziel@t-mobile.com
+phone: +1 4254247807
+fax-no: +1 4254247820
+source: DEUTSCHE TELEKOM AG
+

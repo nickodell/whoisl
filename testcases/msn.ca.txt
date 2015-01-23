@@ -1,0 +1,43 @@
+Domain name:           msn.ca
+Domain status:         registered
+Creation date:         2000/10/03
+Expiry date:           2015/10/17
+Updated date:          2014/09/10
+DNSSEC:                Unsigned
+
+Registrar:
+    Name:              CSC Corporate Domains (Canada) Company
+    Number:            2397937
+
+Registrant:
+    Name:              Microsoft Canada Inc.
+
+Administrative contact:
+    Name:              Benjamin Orndorff
+    Postal address:    1950 Meadowvale Blvd
+                       Mississauga ON L5N8L9 Canada
+    Phone:             +1.9055680434
+    Fax:               +1.4259367330
+    Email:             admin@internationaladmin.com
+
+Technical contact:
+    Name:              MSN Hostmaster
+    Postal address:    One Microsoft Way
+                       Redmond WA AL 98052 United States
+    Phone:             +1.4258828080
+    Fax:               +1.4259367329
+    Email:             msnhst@microsoft.com
+
+Name servers:
+    ns1.msft.net
+    ns2.msft.net
+    ns3.msft.net
+    ns4.msft.net
+    ns5.msft.net
+
+% WHOIS look-up made at 2015-01-21 23:15:31 (GMT)
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en 
+%
+% (c) 2015 Canadian Internet Registration Authority, (http://www.cira.ca/) 

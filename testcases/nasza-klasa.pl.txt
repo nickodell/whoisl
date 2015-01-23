@@ -1,0 +1,31 @@
+
+DOMAIN NAME:           nasza-klasa.pl
+registrant type:       organization
+nameservers:           ns1.nasza-klasa.pl. [195.93.178.240]
+                       ns2.nasza-klasa.pl. [195.93.178.21]
+                       ns3.nasza-klasa.pl. [91.206.173.232]
+created:               2006.07.03 15:03:44
+last modified:         2014.06.20 17:35:33
+renewal date:          2015.07.03 15:03:44
+
+option created:        2013.11.10 08:23:21
+option expiration date:       2016.11.10 08:23:21
+
+dnssec:                Unsigned
+
+
+REGISTRAR:
+nazwa.pl S.A.(dawniej NetArt Spolka Akcyjna S.K.A.) 
+ul. Cystersow 20A  
+31-553 Krakow
+Polska/Poland
++48.801 33 22 33
++48.12 297 88 10 
++48.12 297 88 08
+kontakt@nazwa.pl
+www.nazwa.pl
+
+WHOIS database responses: http://www.dns.pl/english/opiskomunikatow_en.html
+
+WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system
+Registrant data available at http://dns.pl/cgi-bin/en_whois.pl

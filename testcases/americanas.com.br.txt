@@ -1,0 +1,64 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at http://registro.br/termo/en.html ,
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2015-01-22 19:17:17 (BRST -02:00)
+
+domain:      americanas.com.br
+owner:       B2W - COMPANHIA GLOBAL DO VAREJO
+ownerid:     000.776.574/0006-60
+responsible: Controlador de Dominios
+country:     BR
+owner-c:     BCGVA
+admin-c:     BCGVA
+tech-c:      TEGRS
+billing-c:   MMM525
+nserver:     usw1.akam.net  
+nsstat:      20150120 AA
+nslastaa:    20150120
+nserver:     usw3.akam.net  
+nsstat:      20150120 AA
+nslastaa:    20150120
+nserver:     ns1-132.akam.net  
+nsstat:      20150120 AA
+nslastaa:    20150120
+nserver:     ns1-243.akam.net  
+nsstat:      20150120 AA
+nslastaa:    20150120
+nserver:     eur5.akam.net  
+nsstat:      20150120 AA
+nslastaa:    20150120
+created:     19990615 #169099
+expires:     20150615
+changed:     20140519
+status:      published
+
+nic-hdl-br:  BCGVA
+person:      B2W - Companhia Global do Varejo
+e-mail:      adm.dominios@b2winc.com
+created:     20070625
+changed:     20130204
+
+nic-hdl-br:  MMM525
+person:      M3 M3 M3
+e-mail:      regbr@m3rj.com
+created:     20041215
+changed:     20120911
+
+nic-hdl-br:  TEGRS
+person:      Tecnologia GRSI
+e-mail:      security@b2wdigital.com
+created:     20090605
+changed:     20141205
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.
+

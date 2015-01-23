@@ -1,0 +1,166 @@
+
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+   Domain Name: XE.COM
+   Registrar: TUCOWS DOMAINS INC.
+   Sponsoring Registrar IANA ID: 69
+   Whois Server: whois.tucows.com
+   Referral URL: http://www.tucowsdomains.com
+   Name Server: NS-104.AWSDNS-13.COM
+   Name Server: NS-1530.AWSDNS-63.ORG
+   Name Server: NS-1670.AWSDNS-16.CO.UK
+   Name Server: NS-836.AWSDNS-40.NET
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Status: serverDeleteProhibited
+   Status: serverTransferProhibited
+   Updated Date: 16-nov-2014
+   Creation Date: 16-dec-1994
+   Expiration Date: 15-dec-2015
+
+>>> Last update of whois database: Wed, 21 Jan 2015 23:15:53 GMT <<<
+
+NOTICE: The expiration date displayed in this record is the date the 
+registrar's sponsorship of the domain name registration in the registry is 
+currently set to expire. This date does not necessarily reflect the expiration 
+date of the domain name registrant's agreement with the sponsoring 
+registrar.  Users may consult the sponsoring registrar's Whois database to 
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois 
+database through the use of electronic processes that are high-volume and 
+automated except as reasonably necessary to register domain names or 
+modify existing registrations; the Data in VeriSign Global Registry 
+Services' ("VeriSign") Whois database is provided by VeriSign for 
+information purposes only, and to assist persons in obtaining information 
+about or related to a domain name registration record. VeriSign does not 
+guarantee its accuracy. By submitting a Whois query, you agree to abide 
+by the following terms of use: You agree that you may use this Data only 
+for lawful purposes and that under no circumstances will you use this Data 
+to: (1) allow, enable, or otherwise support the transmission of mass 
+unsolicited, commercial advertising or solicitations via e-mail, telephone, 
+or facsimile; or (2) enable high volume, automated, electronic processes 
+that apply to VeriSign (or its computer systems). The compilation, 
+repackaging, dissemination or other use of this Data is expressly 
+prohibited without the prior written consent of VeriSign. You agree not to 
+use electronic processes that are automated and high-volume to access or 
+query the Whois database except as reasonably necessary to register 
+domain names or modify existing registrations. VeriSign reserves the right 
+to restrict your access to the Whois database in its sole discretion to ensure 
+operational stability.  VeriSign may restrict or terminate your access to the 
+Whois database for failure to abide by these terms of use. VeriSign 
+reserves the right to modify these terms at any time. 
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+For more information on Whois status codes, please visit 
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+Domain Name: XE.COM
+Registry Domain ID: 52364_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.tucows.com
+Registrar URL: http://tucowsdomains.com
+Updated Date: 2014-11-16T05:24:35Z
+Creation Date: 1994-12-16T05:00:00Z
+Registrar Registration Expiration Date: 2015-12-15T05:00:00Z
+Registrar: TUCOWS, INC.
+Registrar IANA ID: 69
+Registrar Abuse Contact Email: domainabuse@tucows.com
+Registrar Abuse Contact Phone: +1.4165350123
+Reseller: XE.com Inc.
+Reseller: dns@xe.com
+Reseller: 416-214-5606
+Domain Status: clientTransferProhibited
+Domain Status: clientUpdateProhibited
+Domain Status: serverDeleteProhibited
+Domain Status: serverTransferProhibited
+Registry Registrant ID: 
+Registrant Name: DNS Administrator
+Registrant Organization: XE Corporation
+Registrant Street: 1145 NICHOLSON RD SUITE 200
+Registrant City: NEWMARKET
+Registrant State/Province: ON
+Registrant Postal Code: L3Y 9C3
+Registrant Country: CA
+Registrant Phone: +1.4162145606
+Registrant Phone Ext: 
+Registrant Fax: +1.4162145607
+Registrant Fax Ext: 
+Registrant Email: dns@xe.com
+Registry Admin ID: 
+Admin Name: DNS Administrator
+Admin Organization: XE Corporation
+Admin Street: 1145 NICHOLSON RD SUITE 200
+Admin City: NEWMARKET
+Admin State/Province: ON
+Admin Postal Code: L3Y 9C3
+Admin Country: CA
+Admin Phone: +1.4162145606
+Admin Phone Ext: 
+Admin Fax: +1.4162145607
+Admin Fax Ext: 
+Admin Email: dns@xe.com
+Registry Tech ID: 
+Tech Name: DNS Administrator
+Tech Organization: XE Corporation
+Tech Street: 1145 NICHOLSON RD SUITE 200
+Tech City: NEWMARKET
+Tech State/Province: ON
+Tech Postal Code: L3Y 9C3
+Tech Country: CA
+Tech Phone: +1.4162145606
+Tech Phone Ext: 
+Tech Fax: +1.4162145607
+Tech Fax Ext: 
+Tech Email: dns@xe.com
+Name Server: NS-836.AWSDNS-40.NET
+Name Server: NS-1530.AWSDNS-63.ORG
+Name Server: NS-1670.AWSDNS-16.CO.UK
+Name Server: NS-104.AWSDNS-13.COM
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2014-11-16T05:24:35Z <<<
+
+Registration Service Provider:
+    XE.com Inc., dns@xe.com
+    416-214-5606
+    416-214-5607 (fax)
+    This company may be contacted for domain login/passwords,
+    DNS/Nameserver changes, and general domain support questions.
+
+The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
+for information purposes only, and may be used to assist you in obtaining
+information about or related to a domain name's registration record.
+
+Tucows makes this information available "as is," and does not guarantee its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising or
+solicitations to entities other than the data recipient's own existing
+customers; or (b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator or
+ICANN-Accredited registrar, except as reasonably necessary to register
+domain names or modify existing registrations.
+
+The compilation, repackaging, dissemination or other use of this Data is
+expressly prohibited without the prior written consent of Tucows.
+
+Tucows reserves the right to terminate your access to the Tucows WHOIS
+database in its sole discretion, including without limitation, for excessive
+querying of the WHOIS database or for failure to otherwise abide by this
+policy.
+
+Tucows reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by these terms.
+
+NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
+RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
+

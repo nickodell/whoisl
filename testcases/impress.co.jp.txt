@@ -1,0 +1,21 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+Domain Information:
+a. [Domain Name]                IMPRESS.CO.JP
+g. [Organization]               Impress Holdings, Inc.
+l. [Organization Type]          CO
+m. [Administrative Contact]     MY7594JP
+n. [Technical Contact]          CK637JP
+p. [Name Server]                ns-468.awsdns-58.com
+p. [Name Server]                ns-1109.awsdns-10.org
+p. [Name Server]                ns-674.awsdns-20.net
+p. [Name Server]                ns-1841.awsdns-38.co.uk
+s. [Signing Key]                
+[State]                         Connected (2015/03/31)
+[Registered Date]                
+[Connected Date]                2011/07/07
+[Last Update]                   2014/04/23 09:56:41 (JST)
+

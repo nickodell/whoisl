@@ -1,0 +1,69 @@
+Domain Name:DMOZ.ORG
+Domain ID: D2914575-LROR
+Creation Date: 1999-01-02T05:00:00Z
+Updated Date: 2014-12-29T06:16:17Z
+Registry Expiry Date: 2016-01-02T05:00:00Z
+Sponsoring Registrar:CSC Corporate Domains, Inc. (R24-LROR)
+Sponsoring Registrar IANA ID: 299
+WHOIS Server: 
+Referral URL: 
+Domain Status: clientTransferProhibited
+Registrant ID:A126926664975485
+Registrant Name:AOL Inc.
+Registrant Organization:AOL Inc.
+Registrant Street: 22000 AOL Way
+Registrant City:Dulles
+Registrant State/Province:VA
+Registrant Postal Code:20166
+Registrant Country:US
+Registrant Phone:+1.7032654670
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email:domain-adm@corp.aol.com
+Admin ID:B126926664927886
+Admin Name:Domain Admin
+Admin Organization:AOL Inc.
+Admin Street: AOL Inc.
+Admin Street: 22000 AOL Way
+Admin City:Dulles
+Admin State/Province:VA
+Admin Postal Code:20166
+Admin Country:US
+Admin Phone:+1.7032654670
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email:domain-adm@corp.aol.com
+Tech ID:B126926664927887
+Tech Name:Domain Admin
+Tech Organization:AOL Inc.
+Tech Street: AOL Inc.
+Tech Street: 22000 AOL Way
+Tech City:Dulles
+Tech State/Province:VA
+Tech Postal Code:20166
+Tech Country:US
+Tech Phone:+1.7032654670
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email:domain-adm@corp.aol.com
+Name Server:DNS-02.NS.AOL.COM
+Name Server:DNS-01.NS.AOL.COM
+Name Server:DNS-06.NS.AOL.COM
+Name Server:DNS-07.NS.AOL.COM
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+DNSSEC:Unsigned
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+

@@ -1,0 +1,32 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+Domain Information:
+[Domain Name]                   MIXI.JP
+
+[Registrant]                    mixi, Inc.
+
+[Name Server]                   asia9.akam.net
+[Name Server]                   use4.akam.net
+[Name Server]                   usw1.akam.net
+[Name Server]                   ns1-55.akam.net
+[Signing Key]                   
+
+[Created on]                    2003/12/19
+[Expires on]                    2015/12/31
+[Status]                        Active
+[Last Updated]                  2015/01/01 01:05:11 (JST)
+
+Contact Information:
+[Name]                          mixi, Inc.
+[Email]                         whois@mixi.co.jp
+[Web Page]                       
+[Postal code]                   150-0011
+[Postal Address]                Shibuya-ku
+                                1-2-20 Higashi
+                                Sumitomo Shibuya First Tower Building 7F
+[Phone]                         03-5738-5900
+[Fax]                           
+

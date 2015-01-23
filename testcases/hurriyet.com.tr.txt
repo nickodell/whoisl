@@ -1,0 +1,54 @@
+** Registrant:
+   Hurriyet Gazetecilik veMatbaacılık A.Ş.
+   100.Yıl Mah.Matbaacılar Cad.No:78
+   Bağcılar/İSTANBUL
+   İstanbul,
+     Türkiye
+   teknik@hurriyet.com.tr
+   + 90-212-6770000-
+   + 90-212-6770906-
+
+
+** Administrative Contact:
+NIC Handle		: hgm6-metu
+Organization Name	: Hurriyet Gaz Mat A.Ş
+Address			: HMT Guneşli
+			  
+			  İstanbul,34212
+			  Türkiye
+Phone			: + 90-677-0716-
+Fax			: + 90-677-0723-
+
+
+** Technical Contact:
+NIC Handle		: hgm6-metu
+Organization Name	: Hurriyet Gaz Mat A.Ş
+Address			: HMT Guneşli
+			  
+			  İstanbul,34212
+			  Türkiye
+Phone			: + 90-677-0716-
+Fax			: + 90-677-0723-
+
+
+** Billing Contact:
+NIC Handle		: hgm6-metu
+Organization Name	: Hurriyet Gaz Mat A.Ş
+Address			: HMT Guneşli
+			  
+			  İstanbul,34212
+			  Türkiye
+Phone			: + 90-677-0716-
+Fax			: + 90-677-0723-
+
+
+** Domain Servers:
+hurdns01.hurriyet.com.tr	212.31.1.1
+hurgate01.hurriyet.com.tr	212.31.1.11
+doldns03.dol.com.tr
+doldns02.dol.com.tr
+hurdns02.hurriyet.com.tr	213.243.16.240
+
+** Additional Info:
+Created on..............: 1996-Oct-31.
+Expires on..............: 2019-Oct-30.

@@ -1,0 +1,14 @@
+Domain Name: keyrun.cn
+ROID: 20060628s10001s56448713-cn
+Domain Status: clientDeleteProhibited
+Domain Status: clientTransferProhibited
+Registrant ID: 38784_1
+Registrant: 珠海麒润
+Registrant Contact Email: cellatcn@gmail.com
+Sponsoring Registrar: 厦门易名科技有限公司（原厦门易名网络科技有限公司）
+Name Server: ns1.139135.com
+Name Server: ns3.139135.com
+Name Server: ns4.139135.com
+Registration Date: 2006-06-28 12:54:45
+Expiration Date: 2016-06-28 12:54:45
+DNSSEC: unsigned

@@ -1,0 +1,18 @@
+Domain Name:                     travian.ae
+Registrar ID:                    123DOMAIN
+Registrar Name:                  Klute-Thiemann Infomationstechnologie GmbH&Co.KG
+Status:                          ok
+
+Registrant Contact ID:           KT-259733205
+Registrant Contact Name:         Travian Games GmbH
+Registrant Contact Email:        Visit whois.aeda.ae for Web based WhoIs
+
+Tech Contact ID:                 KT-037219030
+Tech Contact Name:               Siegfried Mueller
+Tech Contact Email:              Visit whois.aeda.ae for Web based WhoIs
+Tech Contact Organisation:       Travian Games GmbH
+
+Name Server:                     ns01.travian.org
+Name Server:                     ns02.travian.com
+Name Server:                     ns03.travian.net
+Name Server:                     ns04.travian.org

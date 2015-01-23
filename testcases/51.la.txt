@@ -1,0 +1,80 @@
+Domain Name: 51.LA
+Domain ID: CNIC-DO473296
+WHOIS Server: whois.rrpproxy.net
+Referral URL: http://www.key-systems.net/
+Updated Date: 2014-02-26T14:52:15.0Z
+Creation Date: 2005-01-17T01:00:00.0Z
+Registry Expiry Date: 2017-01-17T23:59:59.0Z
+Sponsoring Registrar: Key Systems GmbH
+Sponsoring Registrar IANA ID: 269
+Domain Status: ok
+Registrant ID: P-23189298
+Registrant Name: Yang Fucheng
+Registrant Organization: 
+Registrant Street: 5-32, 55 Jingsan Road
+Registrant City: Zhengzhou
+Registrant State/Province: 
+Registrant Postal Code: 450008
+Registrant Country: CN
+Registrant Phone: +86.37168712665
+Registrant Phone Ext: 
+Registrant Fax: +86.
+Registrant Fax Ext: 
+Registrant Email: nuduseng@hotmail.com
+Admin ID: P-23189298
+Admin Name: Yang Fucheng
+Admin Organization: 
+Admin Street: 5-32, 55 Jingsan Road
+Admin City: Zhengzhou
+Admin State/Province: 
+Admin Postal Code: 450008
+Admin Country: CN
+Admin Phone: +86.37168712665
+Admin Phone Ext: 
+Admin Fax: +86.
+Admin Fax Ext: 
+Admin Email: nuduseng@hotmail.com
+Tech ID: P-23189298
+Tech Name: Yang Fucheng
+Tech Organization: 
+Tech Street: 5-32, 55 Jingsan Road
+Tech City: Zhengzhou
+Tech State/Province: 
+Tech Postal Code: 450008
+Tech Country: CN
+Tech Phone: +86.37168712665
+Tech Phone Ext: 
+Tech Fax: +86.
+Tech Fax Ext: 
+Tech Email: nuduseng@hotmail.com
+Name Server: NS2.DNSV2.COM
+Name Server: NS1.DNSV2.COM
+DNSSEC: unsigned
+Billing ID: P-23189298
+Billing Name: Yang Fucheng
+Billing Organization: 
+Billing Street: 5-32, 55 Jingsan Road
+Billing City: Zhengzhou
+Billing State/Province: 
+Billing Postal Code: 450008
+Billing Country: CN
+Billing Phone: +86.37168712665
+Billing Phone Ext: 
+Billing Fax: +86.
+Billing Fax Ext: 
+Billing Email: nuduseng@hotmail.com
+>>> Last update of WHOIS database: 2015-01-21T17:56:27.0Z <<<
+
+For more information on Whois status codes, please visit
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+
+This whois service is provided by CentralNic Ltd and only contains
+information pertaining to Internet domain names we have registered for
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in 
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd https://www.centralnic.com/
+

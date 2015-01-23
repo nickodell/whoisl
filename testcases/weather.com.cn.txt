@@ -1,0 +1,15 @@
+Domain Name: weather.com.cn
+ROID: 20021209s10011s00034415-cn
+Domain Status: serverDeleteProhibited
+Domain Status: serverUpdateProhibited
+Domain Status: clientTransferProhibited
+Domain Status: serverTransferProhibited
+Registrant ID: ename_8np5wa5lve
+Registrant: 北京维艾思气象信息科技有限公司
+Registrant Contact Email: 13901362998@139.com
+Sponsoring Registrar: 厦门易名科技有限公司（原厦门易名网络科技有限公司）
+Name Server: ns1.weather.com.cn
+Name Server: ns2.weather.com.cn
+Registration Date: 2002-10-14 00:00:00
+Expiration Date: 2022-10-14 00:00:00
+DNSSEC: unsigned

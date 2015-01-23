@@ -1,0 +1,31 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+Domain Information:
+[Domain Name]                   MAINICHI.JP
+
+[Registrant]                    The Mainichi Newspapers
+
+[Name Server]                   ns01.idc.jp
+[Name Server]                   ns02.idc.jp
+[Name Server]                   ns03.idc.jp
+[Signing Key]                   
+
+[Created on]                    2001/03/26
+[Expires on]                    2015/03/31
+[Status]                        Active
+[Last Updated]                  2014/04/01 01:05:12 (JST)
+
+Contact Information:
+[Name]                          The Mainichi Newspapers
+[Email]                         m-soumu@mainichi.co.jp
+[Web Page]                       
+[Postal code]                   100-8051
+[Postal Address]                1-1-1 Hitotsubashi,
+                                Chiyoda-ku,
+                                Tokyo, 100-8051, Japan
+[Phone]                         03-3212-0220
+[Fax]                           03-3287-1320
+

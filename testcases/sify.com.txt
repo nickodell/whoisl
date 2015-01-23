@@ -1,0 +1,135 @@
+
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+   Domain Name: SIFY.COM
+   Registrar: VISESH INFOTECNICS LTD. D/B/A SIGNDOMAINS.COM
+   Sponsoring Registrar IANA ID: 249
+   Whois Server: whois.signdomains.com
+   Referral URL: http://www.signdomains.com
+   Name Server: PDNS.SATYAM.NET.IN
+   Name Server: SDNS.SATYAM.NET.IN
+   Status: ok
+   Updated Date: 24-jul-2014
+   Creation Date: 21-jun-1999
+   Expiration Date: 21-jun-2020
+
+>>> Last update of whois database: Thu, 22 Jan 2015 04:55:52 GMT <<<
+
+NOTICE: The expiration date displayed in this record is the date the 
+registrar's sponsorship of the domain name registration in the registry is 
+currently set to expire. This date does not necessarily reflect the expiration 
+date of the domain name registrant's agreement with the sponsoring 
+registrar.  Users may consult the sponsoring registrar's Whois database to 
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois 
+database through the use of electronic processes that are high-volume and 
+automated except as reasonably necessary to register domain names or 
+modify existing registrations; the Data in VeriSign Global Registry 
+Services' ("VeriSign") Whois database is provided by VeriSign for 
+information purposes only, and to assist persons in obtaining information 
+about or related to a domain name registration record. VeriSign does not 
+guarantee its accuracy. By submitting a Whois query, you agree to abide 
+by the following terms of use: You agree that you may use this Data only 
+for lawful purposes and that under no circumstances will you use this Data 
+to: (1) allow, enable, or otherwise support the transmission of mass 
+unsolicited, commercial advertising or solicitations via e-mail, telephone, 
+or facsimile; or (2) enable high volume, automated, electronic processes 
+that apply to VeriSign (or its computer systems). The compilation, 
+repackaging, dissemination or other use of this Data is expressly 
+prohibited without the prior written consent of VeriSign. You agree not to 
+use electronic processes that are automated and high-volume to access or 
+query the Whois database except as reasonably necessary to register 
+domain names or modify existing registrations. VeriSign reserves the right 
+to restrict your access to the Whois database in its sole discretion to ensure 
+operational stability.  VeriSign may restrict or terminate your access to the 
+Whois database for failure to abide by these terms of use. VeriSign 
+reserves the right to modify these terms at any time. 
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+For more information on Whois status codes, please visit 
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+Domain Name: SIFY.COM
+Registry Domain ID: 
+Registrar WHOIS Server: whois.signdomains.com
+Registrar URL: 
+Updated Date: 2014-08-05T08:54:00Z
+Creation Date: 1999-06-21T14:52:38Z
+Registrar Registration Expiration Date: 2020-06-21T14:53:19Z
+Registrar: Visesh Infotecnics Ltd. D/B/A Signdomains.Com
+Registrar IANA ID: 249
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Domain Status: OK
+Registry Registrant ID: 
+Registrant Name: Raju Vagesna
+Registrant Organization: SifyTechnologies Limited
+Registrant Street: P 2nd floor,tidelpark No.4,Rajiv gandhi salai Taramani 
+Registrant City: chennai
+Registrant State/Province: Tamil Nadu
+Registrant Postal Code: 600113
+Registrant Country: IN
+Registrant Phone: +091.4422540770
+Registrant Phone Ext: 
+Registrant Fax: +091.4422540771
+Registrant Fax Ext: 
+Registrant Email: domainadmin@sifycorp.com
+Registry Admin ID: 
+Admin Name: Raju Vagesna
+Admin Organization: SifyTechnologies Limited
+Admin Street: P 2nd floor,tidelpark No.4,Rajiv gandhi salai Taramani
+Admin City: chennai
+Admin State/Province: Tamil Nadu
+Admin Postal Code: 600113
+Admin Country: IN
+Admin Phone: +091.4422540770
+Admin Phone Ext: 
+Admin Fax: +091.4422540771
+Admin Fax Ext: 
+Admin Email: domainadmin@sifycorp.com
+Registry Tech ID: 
+Tech Name: Raju Vagesna
+Tech Organization: SifyTechnologies Limited
+Tech Street: P 2nd floor,tidelpark No.4,Rajiv gandhi salai Taramani
+Tech City: chennai
+Tech State/Province: Tamil Nadu
+Tech Postal Code: 600113
+Tech Country: IN
+Tech Phone: +091.4422540770
+Tech Phone Ext: 
+Tech Fax: +091.4422540771
+Tech Fax Ext: 
+Tech Email: domainadmin@sifycorp.com
+Name Server: pdns.satyam.net.in
+Name Server: sdns.satyam.net.in
+DNSSEC:Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: 
+http://wdprs.internic.net/
+>>>Last update of WHOIS database: 2015-01-22T04:55:59+0000Z<<<
+
+Registration Service Provided By: SIFY
+
+The data in this whois database is provided to you for information purposes 
+only, that is, to assist you in obtaining information about or related to a 
+domain name registration record. We make this information available "as is",
+and do not guarantee its accuracy. By submitting a whois query, you agree 
+that you will use this data only for lawful purposes and that, under no 
+circumstances will you use this data to: 
+(1) enable high volume, automated, electronic processes that stress or load 
+this whois database system providing you this information; or 
+(2) allow, enable, or otherwise support the transmission of mass unsolicited, 
+commercial advertising or solicitations via direct mail, electronic mail, or 
+by telephone. 
+The compilation, repackaging, dissemination or other use of this data is 
+expressly prohibited without prior written consent from us. The Registrar of 
+record is Visesh Infotecnics Ltd. D/B/A Signdomains.Com. 
+We reserve the right to modify these terms at any time. 
+By submitting this query, you agree to abide by these terms.
+
+

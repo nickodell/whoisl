@@ -1,0 +1,90 @@
+Domain Name:                                 LAUXANH.US
+Domain ID:                                   D8816580-US
+Sponsoring Registrar:                        NAME.COM
+Sponsoring Registrar IANA ID:                625
+Registrar URL (registration services):       www.name.com
+Domain Status:                               clientTransferProhibited
+Variant:                                     LAUXANH.US
+Registrant ID:                               NCR-11546675-098
+Registrant Name:                             Anh Van Pham
+Registrant Organization:                     N/A
+Registrant Address1:                         2421 Finch Ave West
+Registrant City:                             Toronto
+Registrant State/Province:                   Ontario
+Registrant Postal Code:                      M9M 3B5
+Registrant Country:                          Canada
+Registrant Country Code:                     CA
+Registrant Phone Number:                     +1.6479188771
+Registrant Email:                            lauxanh999@gmail.com
+Registrant Application Purpose:              P3
+Registrant Nexus Category:                   C12
+Administrative Contact ID:                   NCA-11546676-195
+Administrative Contact Name:                 Anh Van Pham
+Administrative Contact Organization:         N/A
+Administrative Contact Address1:             2421 Finch Ave West
+Administrative Contact City:                 Toronto
+Administrative Contact State/Province:       Ontario
+Administrative Contact Postal Code:          M9M 3B5
+Administrative Contact Country:              Canada
+Administrative Contact Country Code:         CA
+Administrative Contact Phone Number:         +1.6479188771
+Administrative Contact Email:                lauxanh999@gmail.com
+Billing Contact ID:                          NCB-11546678-B20
+Billing Contact Name:                        Anh Van Pham
+Billing Contact Organization:                N/A
+Billing Contact Address1:                    2421 Finch Ave West
+Billing Contact City:                        Toronto
+Billing Contact State/Province:              Ontario
+Billing Contact Postal Code:                 M9M 3B5
+Billing Contact Country:                     Canada
+Billing Contact Country Code:                CA
+Billing Contact Phone Number:                +1.6479188771
+Billing Contact Email:                       lauxanh999@gmail.com
+Technical Contact ID:                        NCT-11546677-971
+Technical Contact Name:                      Anh Van Pham
+Technical Contact Organization:              N/A
+Technical Contact Address1:                  2421 Finch Ave West
+Technical Contact City:                      Toronto
+Technical Contact State/Province:            Ontario
+Technical Contact Postal Code:               M9M 3B5
+Technical Contact Country:                   Canada
+Technical Contact Country Code:              CA
+Technical Contact Phone Number:              +1.6479188771
+Technical Contact Email:                     lauxanh999@gmail.com
+Name Server:                                 RITA.NS.CLOUDFLARE.COM
+Name Server:                                 JAKE.NS.CLOUDFLARE.COM
+Created by Registrar:                        GODADDY.COM, INC.
+Last Updated by Registrar:                   NAME.COM
+Last Transferred Date:                       Mon Oct 31 16:05:50 GMT 2011
+Domain Registration Date:                    Mon Oct 24 17:35:40 GMT 2005
+Domain Expiration Date:                      Fri Oct 23 23:59:59 GMT 2015
+Domain Last Updated Date:                    Fri Jan 16 10:50:27 GMT 2015
+DNSSEC:                                      false
+
+>>>> Whois database was last updated on: Fri Jan 23 21:15:12 GMT 2015 <<<<
+
+NeuStar, Inc., the Registry Administrator for .US, has collected this
+information for the WHOIS database through a .US-Accredited Registrar.
+This information is provided to you for informational purposes only and is
+designed to assist persons in determining contents of a domain name
+registration record in the NeuStar registry database. NeuStar makes this
+information available to you "as is" and does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data:
+(1) to allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via direct mail,
+electronic mail, or by telephone; (2) in contravention of any applicable
+data and privacy protection laws; or (3) to enable high volume, automated,
+electronic processes that apply to the registry (or its systems). Compilation,
+repackaging, dissemination, or other use of the WHOIS database in its
+entirety, or of a substantial portion thereof, is not allowed without
+NeuStar's prior written permission. NeuStar reserves the right to modify or
+change these conditions at any time without prior or subsequent notification
+of any kind. By executing this query, in any manner whatsoever, you agree to
+abide by these terms.
+
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE
+OF THE AVAILABILITY OF A DOMAIN NAME.
+
+All domain names are subject to certain additional domain name registration
+rules.  For details, please visit our site at www.whois.us.

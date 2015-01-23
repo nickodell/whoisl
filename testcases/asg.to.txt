@@ -1,0 +1,3 @@
+Tonic whoisd V1.1
+asg ns-410.awsdns-51.com
+asg ns-1917.awsdns-47.co.uk

@@ -1,0 +1,24 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         azet.sk
+Admin-id            ETEC-0003
+Admin-name          Azet.sk, a.s.
+Admin-legal-form    akciova spolocnost
+Admin-org.-ID       36023523
+Admin-address       Murgasova 2/243, Zilina 010 01
+Admin-email         sknic@firma.azet.sk;oskrobana@firma.azet.sk
+Tech-id             ETEC-0003
+Tech-name           Azet.sk, a.s.
+Tech-org.-ID        36023523
+Tech-address        Murgasova 2/243, Zilina 010 01
+Tech-email          sknic@firma.azet.sk;oskrobana@firma.azet.sk
+dns_name            ns1.etech.sk
+dns_name            ns2.etech.sk
+dns_name            ns3.etech.sk
+Last-update         2014-04-16
+Valid-date          2015-05-14
+Domain-status       DOM_OK
+

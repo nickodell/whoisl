@@ -1,0 +1,40 @@
+Domain name:           sympatico.ca
+Domain status:         registered
+Creation date:         2000/10/02
+Expiry date:           2016/10/13
+Updated date:          2014/07/07
+DNSSEC:                Unsigned
+
+Registrar:
+    Name:              MarkMonitor International Canada Ltd.
+    Number:            5000040
+
+Registrant:
+    Name:              Bell Canada
+
+Administrative contact:
+    Name:              Van Tu Duong
+    Postal address:    1 carrefour Alexander-Graham-Bell, A 7
+                       Verdun QC H3E3B3 Canada
+    Phone:             +1.5148702477
+    Fax:               +1.5148704833
+    Email:             trademarks@bell.ca
+
+Technical contact:
+    Name:              Van Tu Duong
+    Postal address:    1 carrefour Alexander-Graham-Bell, A 7
+                       Verdun QC H3E3B3 Canada
+    Phone:             +1.5148702477
+    Fax:               +1.5148704833
+    Email:             trademarks@bell.ca
+
+Name servers:
+    toroon63nszp01.srvr.bell.ca 207.164.234.42
+    toroondcnszs01.srvr.bell.ca 207.236.176.30
+
+% WHOIS look-up made at 2015-01-23 21:16:28 (GMT)
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en 
+%
+% (c) 2015 Canadian Internet Registration Authority, (http://www.cira.ca/) 

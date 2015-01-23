@@ -1,0 +1,81 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [129.19.1.59 REQUEST] >> -V Md5.1 pagesjaunes.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      pagesjaunes.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    P3090-FRNIC
+admin-c:     JMG81-FRNIC
+tech-c:      JMG81-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL4248-FRNIC
+registrar:   PAGESJAUNES
+anniversary: 10/03
+created:     21/12/2005
+last-update: 10/03/2010
+source:      FRNIC
+
+ns-list:     NSL4248-FRNIC
+nserver:     nsg1.ft-snat.com
+nserver:     nsf1.ft-snat.com
+source:      FRNIC
+
+registrar:   PAGESJAUNES
+type:        Isp Option 1
+address:     7 Avenue de la Cristallerie
+address:     SEVRES CEDEX
+country:     FR
+phone:       +33 1 46 23 30 00
+fax-no:      +33 1 46 23 37 73
+e-mail:      contact-afnic@sites-acs.net
+website:     http://www.pagesjaunesgroupe.com
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     JMG81-FRNIC
+type:        PERSON
+contact:     Jean-Marie Guille
+address:     DPJ.FR PagesJaunes
+address:     7, avenue de la Cristallerie
+address:     92317 SèVres
+country:     FR
+phone:       +33 1 46 23 30 00
+fax-no:      +33 1 46 23 38 35
+e-mail:      dns@pagesjaunes.fr
+registrar:   PAGESJAUNES
+changed:     01/03/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     P3090-FRNIC
+type:        ORGANIZATION
+contact:     PagesJaunes
+address:     7, avenue de la
+address:     92317 Sèvres
+country:     FR
+phone:       +33 1 46 23 30 00
+e-mail:      dns@pagesjaunes.fr
+registrar:   PAGESJAUNES
+changed:     10/03/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+eligstatus:  ok
+eligdate:    27/12/2005 00:00:00
+source:      FRNIC
+

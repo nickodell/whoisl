@@ -1,0 +1,16 @@
+Domain Name: 360.cn
+ROID: 20030311s10001s00024165-cn
+Domain Status: clientDeleteProhibited
+Domain Status: clientTransferProhibited
+Registrant ID: ename_tzcpdpukhw
+Registrant: 北京奇虎科技有限公司
+Registrant Contact Email: caoshu@360.cn
+Sponsoring Registrar: 厦门易名科技有限公司（原厦门易名网络科技有限公司）
+Name Server: ns3.360safe.com
+Name Server: ns4.360safe.com
+Name Server: ns5.360safe.com
+Name Server: ns7.360safe.com
+Name Server: ns8.360safe.com
+Registration Date: 2003-03-17 12:20:05
+Expiration Date: 2016-03-17 12:48:36
+DNSSEC: unsigned

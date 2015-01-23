@@ -1,0 +1,15 @@
+Domain Name: amazon.cn
+ROID: 20030312s10001s00042208-cn
+Domain Status: serverDeleteProhibited
+Domain Status: serverUpdateProhibited
+Domain Status: serverTransferProhibited
+Registrant ID: mark-154638
+Registrant: 北京世纪卓越信息技术有限公司
+Registrant Contact Email: hostmaster@amazon.com
+Sponsoring Registrar: MarkMonitor Inc.
+Name Server: pdns1.ultradns.net
+Name Server: pdns3.ultradns.org
+Name Server: ns1.joyo.com
+Registration Date: 2003-03-17 12:20:05
+Expiration Date: 2015-03-17 12:48:36
+DNSSEC: unsigned

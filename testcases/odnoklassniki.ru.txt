@@ -1,0 +1,21 @@
+% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:        ODNOKLASSNIKI.RU
+nserver:       ns1.odnoklassniki.ru. 217.20.150.252
+nserver:       ns2.odnoklassniki.ru. 217.20.149.60
+nserver:       ns3.odnoklassniki.ru. 217.20.153.196
+nserver:       ns4.odnoklassniki.ru. 217.20.146.244
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           NESSLY HOLDINGS LIMITED
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       2002.01.15
+paid-till:     2016.01.15
+free-date:     2016.02.15
+source:        TCI
+
+Last updated on 2015.01.21 18:46:32 MSK
+

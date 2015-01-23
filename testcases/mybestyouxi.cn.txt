@@ -1,0 +1,12 @@
+Domain Name: mybestyouxi.cn
+ROID: 20140628s10001s71661380-cn
+Domain Status: ok
+Registrant ID: 1556-239924-d-01
+Registrant: 邵阳市谷歌广告有限公司
+Registrant Contact Email: 995512095@qq.com
+Sponsoring Registrar: 成都西维数码科技有限公司
+Name Server: ns2.sedoparking.com
+Name Server: ns1.sedoparking.com
+Registration Date: 2014-06-28 11:39:41
+Expiration Date: 2015-06-28 11:39:41
+DNSSEC: unsigned

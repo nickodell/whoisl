@@ -1,0 +1,19 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+Domain Information:
+a. [Domain Name]                SO-NET.NE.JP
+d. [Network Service Name]       So-net Service
+l. [Organization Type]          Network Service
+m. [Administrative Contact]     MK2734JP
+n. [Technical Contact]          YO078JP
+p. [Name Server]                zns3.so-net.ne.jp
+p. [Name Server]                zns4.so-net.ne.jp
+s. [Signing Key]                
+[State]                         Connected (2015/02/28)
+[Registered Date]               1997/02/10
+[Connected Date]                1997/09/05
+[Last Update]                   2014/03/01 01:12:52 (JST)
+

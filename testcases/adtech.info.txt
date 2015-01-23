@@ -1,0 +1,84 @@
+Domain Name:ADTECH.INFO
+Domain ID: D43622-LRMS
+Creation Date: 2001-08-01T20:26:53Z
+Updated Date: 2014-06-22T20:45:45Z
+Registry Expiry Date: 2015-08-01T20:26:53Z
+Trademark Name:ADTECH
+Trademark Date:1998-09-05
+Trademark Country:Deutschland
+Trademark Number:39814523
+Sponsoring Registrar:CSC Corporate Domains, Inc. (R129-LRMS)
+Sponsoring Registrar IANA ID: 299
+WHOIS Server: 
+Referral URL: 
+Domain Status: clientTransferProhibited
+Registrant ID:9595819cddbd4401
+Registrant Name:Domain Administrator
+Registrant Organization:ADTECH Gmbh
+Registrant Street: Robert-Bosch-Str. 32
+Registrant City:Dreieich
+Registrant State/Province:
+Registrant Postal Code:63303
+Registrant Country:DE
+Registrant Phone:+49.03512112048
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email:domain-adm@corp.aol.com
+Admin ID:3870656cdd916704
+Admin Name:Domain Administrator
+Admin Organization:ADTECH Gmbh
+Admin Street: Robert-Bosch-Str. 32
+Admin City:Dreieich
+Admin State/Province:
+Admin Postal Code:63303
+Admin Country:DE
+Admin Phone:+49.03512112048
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email:domain-adm@corp.aol.com
+Billing ID:4006172cdde23102
+Billing Name:ccTLD Billing
+Billing Organization:CSC Corporate Domains, Inc.
+Billing Street: 2711 Centerville Rd.
+Billing City:Wilmington
+Billing State/Province:DE
+Billing Postal Code:19808
+Billing Country:US
+Billing Phone:+1.3026365400
+Billing Phone Ext: 
+Billing Fax: +1.3026365454
+Billing Fax Ext: 
+Billing Email:ccTLD-billing@cscinfo.com
+Tech ID:5535746cdd978921
+Tech Name:Domain Administrator
+Tech Organization:ADTECH Gmbh
+Tech Street: Robert-Bosch-Str. 32
+Tech City:Dreieich
+Tech State/Province:
+Tech Postal Code:63303
+Tech Country:DE
+Tech Phone:+49.03512112048
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email:domain-adm@corp.aol.com
+Name Server:DNS-01.NS.AOL.COM
+Name Server:DNS-02.NS.AOL.COM
+Name Server:DNS-06.NS.AOL.COM
+Name Server:DNS-07.NS.AOL.COM
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+DNSSEC:Unsigned
+
+Access to AFILIAS WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Afilias registry database. The data in this record is provided by Afilias Limited for informational purposes only, and Afilias does not guarantee its accuracy.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Afilias reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+

@@ -1,0 +1,19 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+Domain Information:
+a. [Domain Name]                SPONICHI.CO.JP
+g. [Organization]               The Sports Nippon Newspapers
+l. [Organization Type]          Company
+m. [Administrative Contact]     YH10237JP
+n. [Technical Contact]          YH10237JP
+p. [Name Server]                ns.sponichi.co.jp
+p. [Name Server]                shrns.sponichi.co.jp
+s. [Signing Key]                
+[State]                         Connected (2015/10/31)
+[Registered Date]               1998/10/09
+[Connected Date]                1998/10/16
+[Last Update]                   2014/11/01 01:05:51 (JST)
+

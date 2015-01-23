@@ -1,0 +1,133 @@
+
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+   Domain Name: AEBN.NET
+   Registrar: DNC HOLDINGS, INC.
+   Sponsoring Registrar IANA ID: 291
+   Whois Server: whois.directnic.com
+   Referral URL: http://www.directnic.com
+   Name Server: NS1-AUTH.AEBN.NET
+   Name Server: NS2-AUTH.AEBN.NET
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 02-jan-2015
+   Creation Date: 16-feb-2000
+   Expiration Date: 16-feb-2016
+
+>>> Last update of whois database: Fri, 23 Jan 2015 21:15:00 GMT <<<
+
+NOTICE: The expiration date displayed in this record is the date the 
+registrar's sponsorship of the domain name registration in the registry is 
+currently set to expire. This date does not necessarily reflect the expiration 
+date of the domain name registrant's agreement with the sponsoring 
+registrar.  Users may consult the sponsoring registrar's Whois database to 
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois 
+database through the use of electronic processes that are high-volume and 
+automated except as reasonably necessary to register domain names or 
+modify existing registrations; the Data in VeriSign Global Registry 
+Services' ("VeriSign") Whois database is provided by VeriSign for 
+information purposes only, and to assist persons in obtaining information 
+about or related to a domain name registration record. VeriSign does not 
+guarantee its accuracy. By submitting a Whois query, you agree to abide 
+by the following terms of use: You agree that you may use this Data only 
+for lawful purposes and that under no circumstances will you use this Data 
+to: (1) allow, enable, or otherwise support the transmission of mass 
+unsolicited, commercial advertising or solicitations via e-mail, telephone, 
+or facsimile; or (2) enable high volume, automated, electronic processes 
+that apply to VeriSign (or its computer systems). The compilation, 
+repackaging, dissemination or other use of this Data is expressly 
+prohibited without the prior written consent of VeriSign. You agree not to 
+use electronic processes that are automated and high-volume to access or 
+query the Whois database except as reasonably necessary to register 
+domain names or modify existing registrations. VeriSign reserves the right 
+to restrict your access to the Whois database in its sole discretion to ensure 
+operational stability.  VeriSign may restrict or terminate your access to the 
+Whois database for failure to abide by these terms of use. VeriSign 
+reserves the right to modify these terms at any time. 
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+For more information on Whois status codes, please visit 
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+ 
+Domain Name: AEBN.NET
+Registry Domain ID: 19972979_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.directnic.com
+Registrar URL: http://www.directnic.com
+Updated Date: 2015-01-02T07:06:59-06:00
+Creation Date: 2000-02-16T15:59:02-06:00
+Registrar Registration Expiration Date: 2016-02-16T15:59:02-06:00
+Registrar: DNC Holdings, Inc.
+Sponsoring Registrar IANA ID: 291
+Registrar Abuse Contact Email: abuse@directnic.com
+Registrar Abuse Contact Phone: +1.8668569598
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: renewPeriod (https://www.icann.org/epp#renewPeriod)
+Registrant Name: Steve Klrk
+Registrant Organization: WMM HOLDINGS, LLC
+Registrant Street: 500 Archdale Dr  
+Registrant City: Charlotte
+Registrant State/Province: NC
+Registrant Postal Code: 28217
+Registrant Country: US
+Registrant Phone: +1.7045291600
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: stevek@aebn.net
+Admin Name: Steve Klrk
+Admin Organization: WMM HOLDINGS, LLC
+Admin Street: 500 Archdale Dr  
+Admin City: Charlotte
+Admin State/Province: NC
+Admin Postal Code: 28217
+Admin Country: US
+Admin Phone: +1.7045291600
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: stevek@aebn.net
+Tech Name: Steve Klrk
+Tech Organization: WMM HOLDINGS, LLC
+Tech Street: 500 Archdale Dr  
+Tech City: Charlotte
+Tech State/Province: NC
+Tech Postal Code: 28217
+Tech Country: US
+Tech Phone: +1.7045291600
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: stevek@aebn.net
+Name Server: NS1-AUTH.AEBN.NET
+Name Server: NS2-AUTH.AEBN.NET
+URL of the ICANN WHOIS Data Problem Reporting System
+http://wdprs.internic.net
+For more information on Whois status codes, 
+please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+>>> Last update of WHOIS database: 2015-01-23T15:15:09-06:00 <<<
+
+
+The compilation, repackaging, dissemination, or other use of this WHOIS
+data is expressly prohibited without the prior written consent of
+DNC Holdings, Inc.
+
+DNC Holdings reserves the right to terminate your access to its WHOIS
+database in its sole discretion, including without limitation, for
+excessive querying of the database or for failure to otherwise abide by
+this policy.
+
+DNC Holdings reserves the right to modify these terms at any time.
+
+NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.
+LACK OF A DOMAIN RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.

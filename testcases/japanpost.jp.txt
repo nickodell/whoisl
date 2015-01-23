@@ -1,0 +1,31 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+Domain Information:
+[Domain Name]                   JAPANPOST.JP
+
+[Registrant]                    Japan Post Holdings Co., Ltd.
+
+[Name Server]                   ns01.jp-it.net
+[Name Server]                   ns00.vips.ne.jp
+[Name Server]                   ns01.vips.ne.jp
+[Signing Key]                   
+
+[Created on]                    2003/05/28
+[Expires on]                    2015/05/31
+[Status]                        Active
+[Last Updated]                  2014/06/01 01:05:11 (JST)
+
+Contact Information:
+[Name]                          Fujimoto Norikazu
+[Email]                         grouptoukatsu_web.ii@jp-holdings.jp
+[Web Page]                       
+[Postal code]                   100-8798
+[Postal Address]                1-3-2 Kasumigaseki,
+                                Chiyoda-ku,
+                                Tokyo 100-8798, Japan
+[Phone]                         03-3504-4320
+[Fax]                           03-3501-0132
+

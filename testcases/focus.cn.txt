@@ -1,0 +1,12 @@
+Domain Name: focus.cn
+ROID: 20030311s10001s00038814-cn
+Domain Status: ok
+Registrant ID: sfn8032535838038
+Registrant: 北京焦点互动信息服务有限公司
+Registrant Contact Email: dnsadmin@sohu-inc.com
+Sponsoring Registrar: 北京中科三方网络技术有限公司
+Name Server: ns1.sohu.net
+Name Server: ns2.sohu.net
+Registration Date: 2003-03-17 12:20:05
+Expiration Date: 2015-03-17 12:48:36
+DNSSEC: unsigned

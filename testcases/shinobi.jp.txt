@@ -1,0 +1,32 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+Domain Information:
+[Domain Name]                   SHINOBI.JP
+
+[Registrant]                    Samurai Factory Inc.
+
+[Name Server]                   ns.gehirn.jp
+[Name Server]                   ns.securedns.jp
+[Name Server]                   ns.gehirn.co.uk
+[Name Server]                   ns.gehirndns.com
+[Signing Key]                   
+
+[Created on]                    2003/09/29
+[Expires on]                    2015/09/30
+[Status]                        Active
+[Last Updated]                  2014/10/01 01:05:16 (JST)
+
+Contact Information:
+[Name]                          Samurai Factory Inc.
+[Email]                         domainregist@ml.ninja.co.jp
+[Web Page]                      http://www.samurai-factory.jp/
+[Postal code]                   150-0036
+[Postal Address]                Glass city Shibuya 5F
+                                16-28,Nanpeidai-cho
+                                Shibuya-ku,Tokyo
+[Phone]                         03-6277-5281
+[Fax]                           03-6277-5283
+

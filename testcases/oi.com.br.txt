@@ -1,0 +1,55 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at http://registro.br/termo/en.html ,
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2015-01-23 19:22:42 (BRST -02:00)
+
+domain:      oi.com.br
+owner:       TNL PCS S/A
+ownerid:     004.164.616/0002-30
+responsible: Daniel Advogados
+country:     BR
+owner-c:     HAOGO
+admin-c:     HAOGO
+tech-c:      IGGDA
+billing-c:   DOOIB
+nserver:     ns1.oi.com.br 187.31.129.2 
+nsstat:      20150123 AA
+nslastaa:    20150123
+nserver:     ns2.oi.com.br 187.31.129.3 
+nsstat:      20150123 AA
+nslastaa:    20150123
+created:     19981204 #131289
+expires:     20151204
+changed:     20141119
+status:      published
+
+nic-hdl-br:  DOOIB
+person:      Domínios OiBrT
+e-mail:      law_jur@daniel.adv.br
+created:     20100108
+changed:     20100108
+
+nic-hdl-br:  HAOGO
+person:      Halliny Oliveira Gomes
+e-mail:      evelin.candido@oi.net.br
+created:     20060628
+changed:     20150123
+
+nic-hdl-br:  IGGDA
+person:      iG - Gerencia de Datacenter
+e-mail:      ld-redes@oi.net.br
+created:     20091208
+changed:     20140915
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.
+

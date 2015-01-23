@@ -1,0 +1,149 @@
+
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+   Server Name: TOM.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
+   IP Address: 203.36.226.2
+   Registrar: INSTRA CORPORATION PTY, LTD.
+   Whois Server: whois.instra.net
+   Referral URL: http://www.instra.com
+
+   Server Name: TOM.COMPULINK.CO.UK
+   Registrar: TOTAL WEB SOLUTIONS LIMITED TRADING AS TOTALREGISTRATIONS
+   Whois Server: whois.totalregistrations.com
+   Referral URL: http://www.totalregistrations.com
+
+   Server Name: TOM.COMPUTINGPOINT.LTD.UK
+   Registrar: GODADDY.COM, LLC
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+
+   Server Name: TOM.COMPUTINGPOINT.NET
+   IP Address: 2001:8B0:3C8:20:0:0:0:253
+   IP Address: 2001:8B0:3C8:20:0:0:0:103
+   IP Address: 81.187.225.253
+   Registrar: GODADDY.COM, LLC
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+
+   Domain Name: TOM.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Sponsoring Registrar IANA ID: 13
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: EDNS.WYITH.NET
+   Name Server: NS1.TOM.COM
+   Name Server: NS2.TOM.COM
+   Name Server: NS3.TOM.COM
+   Status: clientTransferProhibited
+   Updated Date: 30-oct-2014
+   Creation Date: 13-mar-1995
+   Expiration Date: 08-dec-2023
+
+>>> Last update of whois database: Wed, 21 Jan 2015 18:19:43 GMT <<<
+
+NOTICE: The expiration date displayed in this record is the date the 
+registrar's sponsorship of the domain name registration in the registry is 
+currently set to expire. This date does not necessarily reflect the expiration 
+date of the domain name registrant's agreement with the sponsoring 
+registrar.  Users may consult the sponsoring registrar's Whois database to 
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois 
+database through the use of electronic processes that are high-volume and 
+automated except as reasonably necessary to register domain names or 
+modify existing registrations; the Data in VeriSign Global Registry 
+Services' ("VeriSign") Whois database is provided by VeriSign for 
+information purposes only, and to assist persons in obtaining information 
+about or related to a domain name registration record. VeriSign does not 
+guarantee its accuracy. By submitting a Whois query, you agree to abide 
+by the following terms of use: You agree that you may use this Data only 
+for lawful purposes and that under no circumstances will you use this Data 
+to: (1) allow, enable, or otherwise support the transmission of mass 
+unsolicited, commercial advertising or solicitations via e-mail, telephone, 
+or facsimile; or (2) enable high volume, automated, electronic processes 
+that apply to VeriSign (or its computer systems). The compilation, 
+repackaging, dissemination or other use of this Data is expressly 
+prohibited without the prior written consent of VeriSign. You agree not to 
+use electronic processes that are automated and high-volume to access or 
+query the Whois database except as reasonably necessary to register 
+domain names or modify existing registrations. VeriSign reserves the right 
+to restrict your access to the Whois database in its sole discretion to ensure 
+operational stability.  VeriSign may restrict or terminate your access to the 
+Whois database for failure to abide by these terms of use. VeriSign 
+reserves the right to modify these terms at any time. 
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+For more information on Whois status codes, please visit 
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+Domain Name: tom.com
+Registry Domain ID: 3425177_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.melbourneit.com
+Registrar URL: http://www.melbourneit.com.au
+Updated Date: 2014-10-30T09:41:34Z
+Creation Date: 1995-03-13T05:00:00Z
+Registrar Registration Expiration Date: 2023-12-08T13:00:00Z
+Registrar: Melbourne IT Ltd
+Registrar IANA ID: 13
+Registrar Abuse Contact Email: abuse@melbourneit.com.au
+Registrar Abuse Contact Phone: +61.386242300
+Domain Status: clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: BEIJING LEITINGWANJUN NETWORK TECHNOLOGY COMPANY LIMITED
+Registrant Organization: 
+Registrant Street: Room 610, Tower C No.18 Xihuannan Road Economic-Technological Development Area (BDA)
+Registrant City: Beijing
+Registrant State/Province: -
+Registrant Postal Code: 100176
+Registrant Country: CN
+Registrant Phone: +86.1065283399
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: wanhua@tomonline-inc.com
+Registry Admin ID: 
+Admin Name: Director of Investigation and Development Center
+Admin Organization: 
+Admin Street: Room 610, Tower C No.18 Xihuannan Road Economic-Technological Development Area (BDA)
+Admin City: Beijing
+Admin State/Province: -
+Admin Postal Code: 100176
+Admin Country: CN
+Admin Phone: +86.1065283399
+Admin Phone Ext: 
+Admin Fax: +86.1085181170
+Admin Fax Ext: 
+Admin Email: wanhua@tomonline-inc.com
+Registry Tech ID: 
+Tech Name: System Administrator
+Tech Organization: 
+Tech Street: Wyith Ltd - Labs/NOC-HK 7th Fl., No.4 Kamhong St.
+Tech City: Hong Kong
+Tech State/Province: -
+Tech Postal Code: -
+Tech Country: HK
+Tech Phone: +852.25121808
+Tech Phone Ext: 
+Tech Fax: +852.25120378
+Tech Fax Ext: 
+Tech Email: sysadmin@wyith.net
+Name Server: NS1.TOM.COM
+Name Server: NS3.TOM.COM
+Name Server: NS2.TOM.COM
+Name Server: EDNS.WYITH.NET
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdrprs.internic.net
+>>> Last update of WHOIS database: 2015-01-21T18:04:42Z
+
+TERMS OF USE OF MELBOURNE IT WHOIS DATABASE
+The WHOIS database is operated by Melbourne IT Ltd ('we', 'our' or 'us'). Your access to, and use of, our WHOIS database and the information made available on our WHOIS database is subject to these Terms of Use and our Privacy Policy. All information contained in our WHOIS database is provided 'as is'. We take no responsibility for any error or omission in our WHOIS database. The data in our WHOIS database is provided to you for your information only. You may use the information in our WHOIS database only for the purpose of obtaining information about or related to a domain name registration record ('Permitted Purpose'). You agree not to use high-volume, automated electronic processes to access or query our WHOIS database. By submitting a WHOIS query to us, you agree that you will only use the data obtained from a WHOIS query for the Permitted Purpose and for lawful purposes, and that you will not: (a) allow, enable, or otherwise support the transmission of mass, unsolicited, commercial advertising or solicitations by e-mail, telephone, or facsimile; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of any Registry Operator or ICANN-Accredited registrar, except as reasonably necessary to register domain names or modify existing domain name registrations. You also agree that the copying, reproduction, translation, compilation, re-packaging, dissemination or other use of the data in our WHOIS database is prohibited without our prior written consent. We reserve the right to terminate your access to our WHOIS database at any time, and for any reason, including (without limitation) if you fail to comply with any provision of these Terms of Use, or we consider that you are excessively querying our WHOIS database. These Terms of Use may be modified by us at any time without notice by our amending the Terms of Use on this web page. You agree that your use of our WHOIS database following any modification to these Terms of Us
+e will constitute your acceptance of these Terms of Use (as modified from time to time).
+
+
+
+

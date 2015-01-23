@@ -1,0 +1,38 @@
+
+DOMAIN NAME:           wrzuta.pl
+registrant type:       organization
+nameservers:           ns1.go2.pl. [193.17.41.1][2001:67c:25c4::a]
+                       ns2.go2.pl. [2001:67c:25c4::b][193.222.135.67]
+created:               2006.04.04 11:01:51
+last modified:         2014.04.01 12:32:54
+renewal date:          2015.04.04 11:01:51
+
+option created:        2015.01.04 01:46:52
+option expiration date:       2018.01.04 01:46:52
+
+dnssec:                Unsigned
+
+TECHNICAL CONTACT:
+company: Grupa Wirtualna Polska Sp. z o.o.
+street: ul. Jutrzenki 177
+city: 02-231 Warszawa
+location: PL
+phone:  +48.223988000
+fax:  +48.223988099
+last modified: 2014.03.18
+
+
+REGISTRAR:
+Agnat Sp. z o.o.
+ul. Gdanska 107 
+85-022 Bydgoszcz
+Polska/Poland
++48.52 3667777 
++48.52 3667788
+bok@domena.pl
+www.domena.pl
+
+WHOIS database responses: http://www.dns.pl/english/opiskomunikatow_en.html
+
+WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system
+Registrant data available at http://dns.pl/cgi-bin/en_whois.pl

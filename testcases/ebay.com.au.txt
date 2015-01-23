@@ -1,0 +1,27 @@
+Domain Name:                     ebay.com.au
+Last Modified:                   04-Dec-2014 22:18:16 UTC
+Status:                          clientDeleteProhibited
+Status:                          clientUpdateProhibited
+Registrar Name:                  MarkMonitor Inc.
+
+Registrant:                      ebay Australia and New Zealand Pty Limited
+Registrant ID:                   ABN 22086288888
+Eligibility Type:                Registered Business
+
+Registrant Contact ID:           MMR-122330
+Registrant Contact Name:         Domain Administrator
+Registrant Contact Email:        Visit whois.ausregistry.com.au for Web based WhoIs
+
+Tech Contact ID:                 MMR-19168
+Tech Contact Name:               Domain Administrator
+Tech Contact Email:              Visit whois.ausregistry.com.au for Web based WhoIs
+
+Name Server:                     sjc-dns1.ebaydns.com
+Name Server:                     sjc-dns2.ebaydns.com
+Name Server:                     smf-dns2.ebaydns.com
+Name Server:                     smf-dns1.ebaydns.com
+Name Server:                     ns1.p47.dynect.net
+Name Server:                     ns2.p47.dynect.net
+Name Server:                     ns3.p47.dynect.net
+Name Server:                     ns4.p47.dynect.net
+DNSSEC:                          unsigned

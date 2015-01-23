@@ -1,0 +1,14 @@
+Domain Name: china.com.cn
+ROID: 20021209s10011s00031036-cn
+Domain Status: serverDeleteProhibited
+Domain Status: serverUpdateProhibited
+Domain Status: serverTransferProhibited
+Registrant ID: cnnic-zdmd-028
+Registrant: 中国互联网新闻中心
+Registrant Contact Email: linyang@china.com.cn
+Sponsoring Registrar: 北京中科三方网络技术有限公司*
+Name Server: ns1.china.org.cn
+Name Server: ns1.china-online.com.cn
+Registration Date: 1998-06-09 00:00:00
+Expiration Date: 2019-06-09 00:00:00
+DNSSEC: unsigned

@@ -1,0 +1,12 @@
+Domain Name: linkhelper.cn
+ROID: 20080421s10001s85855915-cn
+Domain Status: ok
+Registrant ID: qumi32e3dfmdth
+Registrant: 郁亦男
+Registrant Contact Email: addincaoy@163.com
+Sponsoring Registrar: 北京新网数码信息技术有限公司
+Name Server: f1g1ns1.dnspod.net
+Name Server: f1g1ns2.dnspod.net
+Registration Date: 2008-04-21 12:57:43
+Expiration Date: 2016-04-21 12:57:43
+DNSSEC: unsigned

@@ -1,0 +1,53 @@
+** Registrant:
+   Turkuvaz Radyo Televizyon Gazetecilik ve Yayıncılık A.Ş.
+   Barbaros Bulvarı No:125 Cam Han Kat:5
+   Beşiktaş
+   İstanbul,
+     Türkiye
+   bim@sabah.com.tr
+   + 90-212-3543000-
+   + 
+
+
+** Administrative Contact:
+NIC Handle		: trt16-metu
+Organization Name	: Turkuvaz Radyo Televizyon Haberleşme ve Yayıncılık A.Ş.
+Address			: Barbaros Bulvarı No:125 Cam Han Kat:5
+			  Beşiktaş
+			  İstanbul,
+			  Türkiye
+Phone			: + 90-212-3543000-
+Fax			: + 90-212-3543000-
+
+
+** Technical Contact:
+NIC Handle		: trt16-metu
+Organization Name	: Turkuvaz Radyo Televizyon Haberleşme ve Yayıncılık A.Ş.
+Address			: Barbaros Bulvarı No:125 Cam Han Kat:5
+			  Beşiktaş
+			  İstanbul,
+			  Türkiye
+Phone			: + 90-212-3543000-
+Fax			: + 90-212-3543000-
+
+
+** Billing Contact:
+NIC Handle		: trt16-metu
+Organization Name	: Turkuvaz Radyo Televizyon Haberleşme ve Yayıncılık A.Ş.
+Address			: Barbaros Bulvarı No:125 Cam Han Kat:5
+			  Beşiktaş
+			  İstanbul,
+			  Türkiye
+Phone			: + 90-212-3543000-
+Fax			: + 90-212-3543000-
+
+
+** Domain Servers:
+ns-121.awsdns-15.com
+ns-1189.awsdns-20.org
+ns-2036.awsdns-62.co.uk
+ns-861.awsdns-43.net
+
+** Additional Info:
+Created on..............: 1996-Jul-28.
+Expires on..............: 2017-Jul-27.

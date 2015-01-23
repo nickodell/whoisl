@@ -1,0 +1,133 @@
+
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+   Domain Name: MOP.COM
+   Registrar: HICHINA ZHICHENG TECHNOLOGY LTD.
+   Sponsoring Registrar IANA ID: 420
+   Whois Server: grs-whois.hichina.com
+   Referral URL: http://www.net.cn
+   Name Server: NS3.DNSV4.COM
+   Name Server: NS4.DNSV4.COM
+   Status: clientUpdateProhibited
+   Updated Date: 25-apr-2014
+   Creation Date: 19-sep-1990
+   Expiration Date: 18-sep-2017
+
+>>> Last update of whois database: Wed, 21 Jan 2015 18:05:05 GMT <<<
+
+NOTICE: The expiration date displayed in this record is the date the 
+registrar's sponsorship of the domain name registration in the registry is 
+currently set to expire. This date does not necessarily reflect the expiration 
+date of the domain name registrant's agreement with the sponsoring 
+registrar.  Users may consult the sponsoring registrar's Whois database to 
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois 
+database through the use of electronic processes that are high-volume and 
+automated except as reasonably necessary to register domain names or 
+modify existing registrations; the Data in VeriSign Global Registry 
+Services' ("VeriSign") Whois database is provided by VeriSign for 
+information purposes only, and to assist persons in obtaining information 
+about or related to a domain name registration record. VeriSign does not 
+guarantee its accuracy. By submitting a Whois query, you agree to abide 
+by the following terms of use: You agree that you may use this Data only 
+for lawful purposes and that under no circumstances will you use this Data 
+to: (1) allow, enable, or otherwise support the transmission of mass 
+unsolicited, commercial advertising or solicitations via e-mail, telephone, 
+or facsimile; or (2) enable high volume, automated, electronic processes 
+that apply to VeriSign (or its computer systems). The compilation, 
+repackaging, dissemination or other use of this Data is expressly 
+prohibited without the prior written consent of VeriSign. You agree not to 
+use electronic processes that are automated and high-volume to access or 
+query the Whois database except as reasonably necessary to register 
+domain names or modify existing registrations. VeriSign reserves the right 
+to restrict your access to the Whois database in its sole discretion to ensure 
+operational stability.  VeriSign may restrict or terminate your access to the 
+Whois database for failure to abide by these terms of use. VeriSign 
+reserves the right to modify these terms at any time. 
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+For more information on Whois status codes, please visit 
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+Domain Name:mop.com
+Registry Domain ID:
+Registrar WHOIS Server: whois.hichina.com
+Registrar URL: http://www.net.cn/
+Updated Date:2014-04-25T07:07:00Z
+Creation Date:1990-09-19T04:00:00Z
+Registrar Registration Expiration Date:2017-09-18T04:00:00Z
+Registrar: HICHINA ZHICHENG TECHNOLOGY LTD.
+Registrar IANA ID: 420
+Registrar Abuse Contact Email: abuse@list.alibaba-inc.com
+Registrar Abuse Contact Phone: +86.4006008500
+Reseller:
+Domain Status:clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Registry Registrant ID:hc037715448-cn
+Registrant Name:Wang Yan
+Registrant Organization:Mei Li Chuanshuo CO.,LTD
+Registrant Street:Building D6,China-Asean science and technology enterprise incubation base NO.1  zongbu road, Nanning, Guangxi,,
+Registrant City:nan ning shi
+Registrant State/Province:guang xi
+Registrant Postal Code:530007
+Registrant Country:CN
+Registrant Phone:+86.07715086886
+Registrant Phone Ext:
+Registrant Fax:+86.07715086886
+Registrant Fax Ext:
+Registrant Email:dnsadmin@meiliwan.com
+Registry Admin ID:hc306200705-cn
+Admin Name:Wang Yan
+Admin Organization:Mei Li Chuanshuo CO.,LTD
+Admin Street:Building D6,China-Asean science and technology enterprise incubation base NO.1  zongbu road, Nanning, Guangxi,,
+Admin City:nan ning shi
+Admin State/Province:guang xi
+Admin Postal Code:530007
+Admin Country:CN
+Admin Phone:+86.07715086886
+Admin Phone Ext:
+Admin Fax:+86.07715086886
+Admin Fax Ext:
+Admin Email:dnsadmin@meiliwan.com
+Registry Tech ID:hc905146448-cn
+Tech Name:Wang Yan
+Tech Organization:Mei Li Chuanshuo CO.,LTD
+Tech Street:Building D6,China-Asean science and technology enterprise incubation base NO.1  zongbu road, Nanning, Guangxi,,
+Tech City:nan ning shi
+Tech State/Province:guang xi
+Tech Postal Code:530007
+Tech Country:CN
+Tech Phone:+86.07715086886
+Tech Phone Ext:
+Tech Fax:+86.07715086886
+Tech Fax Ext:
+Tech Email:dnsadmin@meiliwan.com
+Name Server:ns3.dnsv4.com
+Name Server:ns4.dnsv4.com
+DNSSEC:unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database:2014-04-25T07:07:00Z<<<
+
+Registry Billing ID:hc290832327-cn
+Billing Name:Wang Yan
+Billing Organization:Mei Li Chuanshuo CO.,LTD
+Billing Street:Building D6,China-Asean science and technology enterprise incubation base NO.1  zongbu road, Nanning, Guangxi,,
+Billing City:nan ning shi
+Billing State/Province:guang xi
+Billing Postal Code:530007
+Billing Country:CN
+Billing Phone:+86.07715086886
+Billing Phone Ext:
+Billing Fax:+86.07715086886
+Billing Fax Ext:
+Billing Email:dnsadmin@meiliwan.com
+
+Important Reminder: Per ICANN 2013RAA`s request, Hichina has modified domain names`whois format of dot com/net/cc/tv, you could refer to section 1.4 posted by ICANN on http://www.icann.org/en/resources/registrars/raa/approved-with-specs-27jun13-en.htm#whois The data in this whois database is provided to you for information purposes only, that is, to assist you in obtaining information about or related to a domain name registration record. We make this information available "as is," and do not guarantee its accuracy. By submitting a whois query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (1)enable high volume, automated, electronic processes that stress or load this whois database system providing you this information; or (2) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone.  The compilation, repackaging, dissemination or other use of this data is expressly prohibited without prior written consent from us. We reserve the right to modify these terms at any time. By submitting this query, you agree to abide by these terms.<a href='http://www.net.cn/?utm_campaign=Corn&utm_medium=banner&utm_source=whois' target='_blank'><img src='http://whois.hichina.com/images/whois-banner.gif' border='0'></a>
+ 
+For complete domain details go to:http://whois.www.net.cn/whois/domain/mop.com
+

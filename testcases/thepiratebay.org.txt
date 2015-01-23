@@ -1,0 +1,67 @@
+Domain Name:THEPIRATEBAY.ORG
+Domain ID: D104576138-LROR
+Creation Date: 2004-06-28T16:08:27Z
+Updated Date: 2014-12-22T15:23:19Z
+Registry Expiry Date: 2021-06-28T16:08:27Z
+Sponsoring Registrar:EuroDNS S.A. (R1721-LROR)
+Sponsoring Registrar IANA ID: 1052
+WHOIS Server: 
+Referral URL: 
+Domain Status: clientTransferProhibited
+Registrant ID:Edns-r12793874
+Registrant Name:Neij Fredrik
+Registrant Organization:
+Registrant Street: Box 1407
+Registrant City:Stockholm
+Registrant State/Province:
+Registrant Postal Code:11479
+Registrant Country:SE
+Registrant Phone:+46.840379500
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email:auto560120@hushmail.com
+Admin ID:Edns-a12793874
+Admin Name:Neij Fredrik
+Admin Organization:
+Admin Street: Box 1407
+Admin City:Stockholm
+Admin State/Province:
+Admin Postal Code:11479
+Admin Country:SE
+Admin Phone:+46.840379500
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email:auto560120@hushmail.com
+Tech ID:edns-Technical
+Tech Name:Adlani Anouar
+Tech Organization:EuroDNS S.A.
+Tech Street: 2, rue Leon Laval
+Tech City:Leudelange
+Tech State/Province:-
+Tech Postal Code:L-3372
+Tech Country:LU
+Tech Phone:+352.26319161
+Tech Phone Ext: 
+Tech Fax: +352.26372537
+Tech Fax Ext: 
+Tech Email:hostmaster@eurodns.com
+Name Server:NS1.EURODNS.COM
+Name Server:NS2.EURODNS.COM
+Name Server:NS3.EURODNS.COM
+Name Server:NS4.EURODNS.COM
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+DNSSEC:Unsigned
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+

@@ -1,0 +1,21 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+Domain Information:
+a. [Domain Name]                ALLABOUT.CO.JP
+g. [Organization]               All About, Inc.
+l. [Organization Type]          Corporation
+m. [Administrative Contact]     MM4508JP
+n. [Technical Contact]          MM4508JP
+p. [Name Server]                ns-1301.awsdns-34.org
+p. [Name Server]                ns-928.awsdns-52.net
+p. [Name Server]                ns-1605.awsdns-08.co.uk
+p. [Name Server]                ns-211.awsdns-26.com
+s. [Signing Key]                
+[State]                         Connected (2015/12/31)
+[Registered Date]               2000/12/05
+[Connected Date]                2001/01/04
+[Last Update]                   2015/01/01 01:05:31 (JST)
+

@@ -1,0 +1,33 @@
+# Copyright (c) 1997- .SE (The Internet Infrastructure Foundation).
+# All rights reserved.
+# The information obtained through searches, or otherwise, is protected
+# by the Swedish Copyright Act (1960:729) and international conventions.
+# It is also subject to database protection according to the Swedish
+# Copyright Act.
+# Any use of this material to target advertising or
+# similar activities is forbidden and will be prosecuted.
+# If any of the information below is transferred to a third
+# party, it must be done in its entirety. This server must
+# not be used as a backend for a search engine.
+# Result of search for registered domain names under
+# the .SE top level domain.
+# This whois printout is printed with UTF-8 encoding.
+#
+state:            active
+domain:           aftonbladet.se
+holder:           aftonb0903-00096
+admin-c:          dipcon0903-00050
+tech-c:           dipcon0903-00050
+billing-c:        dipcon0903-00050
+created:          2000-08-28
+modified:         2014-01-17
+expires:          2015-08-28
+transferred:      2009-03-07
+nserver:          ystad.dns.swip.net
+nserver:          b.ns.ip-only.net
+nserver:          a.ns.ip-only.net
+nserver:          dns-ext2.aftonbladet.se 144.63.247.37
+nserver:          dns-ext1.aftonbladet.se 144.63.247.36
+dnssec:           unsigned delegation
+status:           ok
+registrar:        Domaininfo AB

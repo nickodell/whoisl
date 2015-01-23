@@ -1,0 +1,65 @@
+%  (c) 2006-2015 CZ.NIC, z.s.p.o.
+% 
+% Intended use of supplied data and information
+% 
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+% 
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+% 
+% See also a search service at http://www.nic.cz/whois/
+% 
+% 
+% Whoisd Server Version: 3.10.0
+% Timestamp: Fri Jan 23 02:07:49 2015
+
+domain:       szn.cz
+registrant:   SB:SEZNAM-CZ-AS
+admin-c:      IL24-RIPE
+nsset:        NSS:IL24-RIPE_XX:1
+registrar:    REG-IGNUM
+status:       Sponsoring registrar change forbidden
+status:       Update forbidden
+registered:   10.10.2000 17:21:00
+changed:      23.09.2004 07:20:00
+expire:       11.10.2016
+
+contact:      SB:SEZNAM-CZ-AS
+org:          Seznam.cz, a.s.
+name:         Seznam.cz, a.s.
+address:      Radlická 3294/10
+address:      Praha 5
+address:      15000
+address:      CZ
+e-mail:       domeny@firma.seznam.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      17.06.2013 12:21:03
+
+contact:      IL24-RIPE
+name:         Ivo Lukacovic
+address:      Radlická 608/2
+address:      Praha 5
+address:      150 00
+address:      CZ
+phone:        +420.234694111
+fax-no:       +420.234694115
+e-mail:       domeny@firma.seznam.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      16.05.2007 11:25:00
+
+nsset:        NSS:IL24-RIPE_XX:1
+nserver:      ns.seznam.cz (77.75.73.77)
+nserver:      ms.seznam.cz (77.75.77.77)
+tech-c:       SB:SEZNAM-CZ-AS
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+changed:      23.01.2008 18:52:06
+
+

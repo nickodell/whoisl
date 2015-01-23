@@ -1,0 +1,36 @@
+
+*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://www.nic.it/cgi-bin/Whois/whois.cgi                         *
+*********************************************************************
+
+Domain:             virgilio.it
+Status:             ok
+Created:            2000-09-29 00:00:00
+Last Update:        2014-05-29 10:27:38
+Expire Date:        2015-05-10
+
+Registrant
+  Organization:     Italiaonline S.p.A.
+
+Admin Contact
+  Name:             Antonio Converti
+  Organization:     Italiaonline S.p.A.
+
+Technical Contacts
+  Name:             Gestione Domini IOL
+  Organization:     Italiaonline S.r.l.
+
+Registrar
+  Organization:     ITnet s.r.l.
+  Name:             ITNET-REG
+
+Nameservers
+  dns1.virgilio.net
+  dns2.virgilio.net
+  dns4.virgilio.net
+  dns5.virgilio.net
+

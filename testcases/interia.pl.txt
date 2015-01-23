@@ -1,0 +1,35 @@
+
+DOMAIN NAME:           interia.pl
+registrant type:       organization
+nameservers:           dns.poczta.fm. 
+                       ns.interia.pl. [217.74.65.131]
+created:               1999.10.07 13:00:00
+last modified:         2014.09.22 10:52:05
+renewal date:          2024.10.06 14:00:00
+
+option created:        2013.01.05 14:45:47
+option expiration date:       2016.01.05 14:45:47
+
+dnssec:                Unsigned
+
+TECHNICAL CONTACT:
+company: Grupa Interia.pl sp. z o.o. sp.k
+street: os. Teatralne 9a
+city: 31-946 Krakow
+location: PL
+phone:  +48.126462700
+last modified: 2011.10.06
+
+
+REGISTRAR:
+Grupa Interia.pl sp. z o.o. sp. k.
+os. Teatralne 9A
+31-946 Krakow
+Polska/Poland
++48.126 462 700
+bok@firma.interia.pl
+
+WHOIS database responses: http://www.dns.pl/english/opiskomunikatow_en.html
+
+WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system
+Registrant data available at http://dns.pl/cgi-bin/en_whois.pl

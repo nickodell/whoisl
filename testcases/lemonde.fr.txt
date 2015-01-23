@@ -1,0 +1,106 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [129.19.1.59 REQUEST] >> -V Md5.1 lemonde.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      lemonde.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SEDM43-FRNIC
+admin-c:     LMI49-FRNIC
+tech-c:      I10396-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL106501-FRNIC
+registrar:   ASCIO TECHNOLOGIES Inc.
+anniversary: 11/02
+created:     02/08/2005
+last-update: 17/12/2014
+source:      FRNIC
+
+ns-list:     NSL106501-FRNIC
+nserver:     ns1.ascio.net
+nserver:     ns2.ascio.net
+nserver:     ns4.ascio.net
+source:      FRNIC
+
+registrar:   ASCIO TECHNOLOGIES Inc.
+type:        Isp Option 1
+address:     Islands Brygge 55
+address:     DK-2300 COPENHAGUE S
+country:     DK
+phone:       +45 33 88 61 00
+fax-no:      +45 33 88 61 01
+e-mail:      nicrelations@ascio.com
+website:     http://www.ascio.com
+anonymous:   NO
+registered:  18/01/2001
+source:      FRNIC
+
+nic-hdl:     I10396-FRNIC
+type:        ORGANIZATION
+contact:     INDOM
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 76 70 05 67
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+registrar:   ASCIO TECHNOLOGIES Inc.
+changed:     03/09/2012 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+eligstatus:  ok
+eligsource:  REGISTRY
+eligdate:    01/11/2013 09:51:17
+reachmedia:  email
+reachstatus: ok
+reachsource: REGISTRY
+reachdate:   01/11/2013 09:51:17
+source:      FRNIC
+
+nic-hdl:     LMI49-FRNIC
+type:        ORGANIZATION
+contact:     Le Monde interactif
+address:     80, boulevard Auguste Blanqui
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 38 42 67
+fax-no:      +33 1 53 38 56 19
+e-mail:      domain_names@lemonde.fr
+registrar:   ASCIO TECHNOLOGIES Inc.
+changed:     03/09/2012 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+eligstatus:  ok
+eligdate:    03/09/2012 16:54:25
+source:      FRNIC
+
+nic-hdl:     SEDM43-FRNIC
+type:        ORGANIZATION
+contact:     SOCIETE EDITRICE DU MONDE
+address:     80, boulevard Auguste Blanqui
+address:     75707 Paris Cedex 13
+country:     FR
+phone:       +33 1 57 28 20 00
+fax-no:      +33 1 57 28 21 21
+e-mail:      domain_names@lemonde.fr
+registrar:   ASCIO TECHNOLOGIES Inc.
+changed:     04/09/2012 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+eligstatus:  ok
+eligdate:    04/09/2012 09:34:28
+source:      FRNIC
+

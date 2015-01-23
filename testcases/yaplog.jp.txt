@@ -1,0 +1,30 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+Domain Information:
+[Domain Name]                   YAPLOG.JP
+
+[Registrant]                    GMO Media, Inc.
+
+[Name Server]                   dns1.gmo-pass.jp
+[Name Server]                   dns2.gmo-pass.jp
+[Signing Key]                   
+
+[Created on]                    2004/04/16
+[Expires on]                    2015/04/30
+[Status]                        Active
+[Last Updated]                  2014/05/01 01:05:13 (JST)
+
+Contact Information:
+[Name]                          GMO Internet, Inc.
+[Email]                         legal@gmo.jp
+[Web Page]                       
+[Postal code]                   150-8512
+[Postal Address]                Shibuya-ku
+                                26-1 Sakuragaoka-cho
+                                Cerulean Tower
+[Phone]                         03-5456-2555
+[Fax]                           03-5456-2556
+

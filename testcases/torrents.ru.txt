@@ -1,0 +1,19 @@
+% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:        TORRENTS.RU
+nserver:       ns1.torrents.ru. 195.82.147.50
+nserver:       ns.torrents.ru. 195.82.146.50
+state:         REGISTERED, NOT DELEGATED, VERIFIED
+org:           Dreamtorrent Corp.
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       2004.09.18
+paid-till:     2015.09.18
+free-date:     2015.10.19
+source:        TCI
+
+Last updated on 2015.01.21 21:36:30 MSK
+

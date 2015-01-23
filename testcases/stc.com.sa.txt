@@ -1,0 +1,31 @@
+% SaudiNIC Whois server.
+% Rights restricted by copyright.
+% http://nic.sa/en/view/whois-cmd-copyright
+
+Domain Name: stc.com.sa
+
+ Registrant:
+ Saudi Telecom Company شركة الاتصالات السعودية
+ Address: لا يوجد P.O.Box. 50290 ص.ب.
+ 11523 Riyadh الرياض
+ Saudi Arabia المملكة العربية السعودية
+
+ Administrative Contact:
+  Tariq Alhuzaimi طارق الحزيمي (50d173191b0cd-sa)
+  Address: لا يوجد P.O.Box. 91208 ص.ب.
+  11633 Riyadh الرياض
+  Saudi Arabia
+
+ Technical Contact:
+  Ibrahim Alghamdi إبراهيم الغامدي (50d173191b89d-sa)
+  Address: لا يوجد P.O.Box. 91208 ص.ب.
+  11633 Riyadh الرياض
+  Saudi Arabia المملكة العربية السعودية
+
+ Name Servers:
+  inetns1.stc.com.sa (212.118.128.66)
+  inetns2.stc.com.sa (212.118.128.67)
+
+Created on: 2001-03-03
+Last Updated on: 2012-12-19
+

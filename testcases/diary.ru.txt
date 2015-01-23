@@ -1,0 +1,19 @@
+% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:        DIARY.RU
+nserver:       ns1.diary.ru. 195.208.26.194
+nserver:       ns2.diary.ru. 178.62.193.121
+state:         REGISTERED, DELEGATED, UNVERIFIED
+org:           LTD "Diary.ru"
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       2002.09.11
+paid-till:     2015.09.12
+free-date:     2015.10.13
+source:        TCI
+
+Last updated on 2015.01.24 00:16:34 MSK
+

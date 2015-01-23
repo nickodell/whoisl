@@ -1,0 +1,28 @@
+
+DOMAIN NAME:           wp.pl
+registrant type:       organization
+nameservers:           ns1.task.gda.pl. [153.19.250.101]
+                       ns1.wp.pl. [212.77.102.200]
+                       ns2.wp.pl. [153.19.102.182]
+created:               1998.04.28 13:00:00
+last modified:         2014.10.10 04:45:55
+renewal date:          2015.04.27 14:00:00
+
+option created:        2014.02.10 10:51:12
+option expiration date:       2017.02.10 10:51:12
+
+dnssec:                Unsigned
+
+
+REGISTRAR:
+NASK
+ul. Wawozowa 18
+02-796 Warszawa
+Polska/Poland
++48.22 3808300
+info@dns.pl
+
+WHOIS database responses: http://www.dns.pl/english/opiskomunikatow_en.html
+
+WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system
+Registrant data available at http://dns.pl/cgi-bin/en_whois.pl

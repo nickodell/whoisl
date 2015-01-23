@@ -1,0 +1,18 @@
+Domain Name: boc.cn
+ROID: 20030428s10001s00799112-cn
+Domain Status: serverDeleteProhibited
+Domain Status: serverUpdateProhibited
+Domain Status: serverTransferProhibited
+Registrant ID: 6741698020994000
+Registrant: 中国银行股份有限公司
+Registrant Contact Email: webmaster@bank-of-china.com
+Sponsoring Registrar: 中企动力科技股份有限公司
+Name Server: ns4.boc.cn
+Name Server: ns1.boc.cn
+Name Server: ns3.boc.cn
+Name Server: ns2.boc.cn
+Name Server: ns5.boc.cn
+Name Server: ns6.boc.cn
+Registration Date: 2003-04-28 11:53:46
+Expiration Date: 2017-04-28 11:53:46
+DNSSEC: unsigned

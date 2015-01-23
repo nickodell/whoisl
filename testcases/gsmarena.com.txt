@@ -1,0 +1,119 @@
+
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+   Domain Name: GSMARENA.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Sponsoring Registrar IANA ID: 113
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: NS.TETRACOM.COM
+   Name Server: NS1.TETRACOM-BG.COM
+   Status: clientTransferProhibited
+   Updated Date: 30-nov-2014
+   Creation Date: 15-jun-2000
+   Expiration Date: 15-jun-2018
+
+>>> Last update of whois database: Thu, 22 Jan 2015 16:04:41 GMT <<<
+
+NOTICE: The expiration date displayed in this record is the date the 
+registrar's sponsorship of the domain name registration in the registry is 
+currently set to expire. This date does not necessarily reflect the expiration 
+date of the domain name registrant's agreement with the sponsoring 
+registrar.  Users may consult the sponsoring registrar's Whois database to 
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois 
+database through the use of electronic processes that are high-volume and 
+automated except as reasonably necessary to register domain names or 
+modify existing registrations; the Data in VeriSign Global Registry 
+Services' ("VeriSign") Whois database is provided by VeriSign for 
+information purposes only, and to assist persons in obtaining information 
+about or related to a domain name registration record. VeriSign does not 
+guarantee its accuracy. By submitting a Whois query, you agree to abide 
+by the following terms of use: You agree that you may use this Data only 
+for lawful purposes and that under no circumstances will you use this Data 
+to: (1) allow, enable, or otherwise support the transmission of mass 
+unsolicited, commercial advertising or solicitations via e-mail, telephone, 
+or facsimile; or (2) enable high volume, automated, electronic processes 
+that apply to VeriSign (or its computer systems). The compilation, 
+repackaging, dissemination or other use of this Data is expressly 
+prohibited without the prior written consent of VeriSign. You agree not to 
+use electronic processes that are automated and high-volume to access or 
+query the Whois database except as reasonably necessary to register 
+domain names or modify existing registrations. VeriSign reserves the right 
+to restrict your access to the Whois database in its sole discretion to ensure 
+operational stability.  VeriSign may restrict or terminate your access to the 
+Whois database for failure to abide by these terms of use. VeriSign 
+reserves the right to modify these terms at any time. 
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+For more information on Whois status codes, please visit 
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+Domain Name: gsmarena.com
+Registry Domain ID: 29293347_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.joker.com
+Registrar URL: http://joker.com/
+Updated Date: 2014-12-02T12:04:12Z
+Creation Date: 2000-06-15T13:53:33Z
+Registrar Registration Expiration Date: 2018-06-15T17:53:33Z
+Registrar: CSL Computer Service Langenbach GmbH d/b/a joker.com
+Registrar IANA ID: 113
+Registrar Abuse Contact Email: abuse@joker.com
+Registrar Abuse Contact Phone: +49.21186767447
+Reseller: Tetracom Interactive Solutions Ltd.
+Reseller: http://www.tetracom.com
+Domain Status: clientTransferProhibited
+Registry Registrant ID:  
+Registrant Name: Orlin Milinov
+Registrant Organization: Arena Com Ltd
+Registrant Street: 1, Baba Ilijca Str.
+Registrant City: Sofia
+Registrant State/Province: Sofia
+Registrant Postal Code: 1652
+Registrant Country: BG
+Registrant Phone: +359.88258130
+Registrant Email: orlin@milinov.com
+Registry Admin ID:  
+Admin Name: Orlin Milinov
+Admin Organization: Arena Com Ltd
+Admin Street: 1, Baba Ilijca Str
+Admin City: Sofia
+Admin Postal Code: 1652
+Admin Country: BG
+Admin Phone: +359.88258130
+Admin Email: orlin@milinov.com
+Registry Tech ID:  
+Tech Name: Emil Stoyanov
+Tech Street: 13 Lipa Str.
+Tech City: Sofia
+Tech State/Province: Sofia
+Tech Postal Code: 1421
+Tech Country: BG
+Tech Phone: +359.29640360
+Tech Fax: +359.29640361
+Tech Email: emil@tetracom.com
+Name Server: ns1.tetracom-bg.com 213.145.99.123
+Name Server: ns.tetracom.com 104.236.83.234
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2015-01-22T16:04:58Z <<<
+
+Query Time: 0.033028
+Query Source: 129.19.1.59
+WHOIS Source: joker.com live whois service
+
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

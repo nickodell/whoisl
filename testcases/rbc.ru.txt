@@ -1,0 +1,19 @@
+% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:        RBC.RU
+nserver:       ns2.rbc.ru. 195.16.126.200
+nserver:       ns3.rbc.ru. 185.72.231.186
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           Ltd. "RBC Media"
+registrar:     R01-RU
+admin-contact: https://partner.r01.ru/contact_admin.khtml
+created:       1998.07.22
+paid-till:     2015.08.01
+free-date:     2015.09.01
+source:        TCI
+
+Last updated on 2015.01.22 02:51:30 MSK
+

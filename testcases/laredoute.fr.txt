@@ -1,0 +1,118 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [129.19.1.59 REQUEST] >> -V Md5.1 laredoute.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      laredoute.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LRS93-FRNIC
+admin-c:     DJ954-FRNIC
+tech-c:      DA6025-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL19741-FRNIC
+registrar:   CSC CORPORATE DOMAINS INC.
+anniversary: 27/11
+created:     06/04/1998
+last-update: 27/11/2014
+source:      FRNIC
+
+ns-list:     NSL19741-FRNIC
+nserver:     pdns1.cscdns.net
+nserver:     pdns2.cscdns.net
+source:      FRNIC
+
+registrar:   CSC CORPORATE DOMAINS INC.
+type:        Isp Option 1
+address:     2711 Centerville Road, Suite 400
+address:     DE 19808 WILMINGTON
+country:     US
+phone:       +1 302 636 5401
+fax-no:      +1 302 636 5454
+e-mail:      corporatedomains@cscinfo.com
+website:     http://www.csccorporatedomains.com
+anonymous:   NO
+registered:  17/10/2006
+source:      FRNIC
+
+nic-hdl:     DJ954-FRNIC
+type:        PERSON
+contact:     Departement Juridique
+address:     La Redoute S.A
+address:     57, rue de Blanchemaille
+address:     59100 Roubaix
+country:     FR
+phone:       +33 3 20 69 60 00
+fax-no:      +33 3 20 24 03 37
+e-mail:      departementjuridique@redcats.com
+registrar:   CSC CORPORATE DOMAINS INC.
+changed:     01/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+eligstatus:  ok
+eligsource:  REGISTRAR
+eligdate:    27/11/2014 01:26:48
+reachmedia:  email
+reachstatus: ok
+reachsource: REGISTRAR
+reachdate:   27/11/2014 01:26:48
+source:      FRNIC
+
+nic-hdl:     LRS93-FRNIC
+type:        ORGANIZATION
+contact:     La Redoute S.A
+address:     La Redoute S.A
+address:     57, rue de Blanchemaille
+address:     59082 Roubaix
+country:     FR
+phone:       +33 3 20 69 60 00
+fax-no:      +33 3 20 24 03 37
+e-mail:      departement.juridique@redoute.fr
+registrar:   CSC CORPORATE DOMAINS INC.
+changed:     27/11/2014 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+eligstatus:  ok
+eligsource:  REGISTRAR
+eligdate:    27/11/2014 01:22:35
+reachmedia:  email
+reachstatus: ok
+reachsource: REGISTRAR
+reachdate:   27/11/2014 01:26:33
+source:      FRNIC
+
+nic-hdl:     DA6025-FRNIC
+type:        PERSON
+contact:     Dns Administrator
+address:     CSC Corporate Domains, Inc.
+address:     2711 Centerville Rd.
+address:     19808 Wilmington DE
+country:     US
+phone:       +1 3026365400
+fax-no:      +1 3026365454
+e-mail:      dns-admin@cscglobal.com
+registrar:   CSC CORPORATE DOMAINS INC.
+changed:     09/06/2014 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+eligstatus:  ok
+eligsource:  REGISTRAR
+eligdate:    28/03/2014 16:46:42
+reachmedia:  email
+reachstatus: ok
+reachsource: REGISTRAR
+reachdate:   12/11/2014 14:43:02
+source:      FRNIC
+

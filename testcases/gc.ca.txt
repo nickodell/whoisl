@@ -1,0 +1,42 @@
+Domain name:           gc.ca
+Domain status:         registered
+Creation date:         2000/10/18
+Expiry date:           2020/04/19
+Updated date:          2015/01/06
+DNSSEC:                Unsigned
+
+Registrar:
+    Name:              Internic.ca Inc.
+    Number:            29
+
+Registrant:
+    Name:              Government of Canada/Gouvernement du Canada
+
+Administrative contact:
+    Name:              James Malone
+    Postal address:    350 King Edward Avenue
+                       Ottawa ON K1A0X1 Canada
+    Phone:             +1.6139477833
+    Fax:
+    Email:             registry@gc.ca
+
+Technical contact:
+    Name:              Jagg Persaud
+    Postal address:    350 King Edward Avenue
+                       Ottawa ON K1A0S5 Canada
+    Phone:             +1.6139476639
+    Fax:               +1.6139475554
+    Email:             registry@gc.ca
+
+Name servers:
+    dns1.nrc.ca            132.246.161.100    2604:8400:0:161::100
+    dns2.nrc.ca            132.246.161.200    2604:8400:0:161::200
+    gocns-pdp.gc.ca    205.193.146.250
+    gocns-kedc.gc.ca   192.197.83.1
+
+% WHOIS look-up made at 2015-01-21 23:57:14 (GMT)
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en 
+%
+% (c) 2015 Canadian Internet Registration Authority, (http://www.cira.ca/) 

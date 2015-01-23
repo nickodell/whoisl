@@ -1,0 +1,12 @@
+Domain Name: cncmax.cn
+ROID: 20041124s10001s03353527-cn
+Domain Status: ok
+Registrant ID: idwcxmaj6nmnp
+Registrant: 中国联合网络通信集团有限公司
+Registrant Contact Email: zhouxm@chinaunicom.cn
+Sponsoring Registrar: 北京新网数码信息技术有限公司
+Name Server: ns.bta.net.cn
+Name Server: ns2.bta.net.cn
+Registration Date: 2004-11-24 10:36:51
+Expiration Date: 2017-11-24 10:36:51
+DNSSEC: unsigned

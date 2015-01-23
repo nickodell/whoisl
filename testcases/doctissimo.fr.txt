@@ -1,0 +1,105 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [129.19.1.59 REQUEST] >> -V Md5.1 doctissimo.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      doctissimo.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    D9344-FRNIC
+admin-c:     CT1889-FRNIC
+tech-c:      GR283-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL27234-FRNIC
+registrar:   GANDI
+anniversary: 15/02
+created:     03/05/2000
+last-update: 15/02/2012
+source:      FRNIC
+
+ns-list:     NSL27234-FRNIC
+nserver:     ns0.doctissimo.fr [85.116.39.8]
+nserver:     ns1.medcost.fr [85.116.32.129]
+source:      FRNIC
+
+registrar:   GANDI
+type:        Isp Option 1
+address:     63-65 boulevard Massena
+address:     PARIS
+country:     FR
+phone:       +33 1 70 37 76 61
+fax-no:      +33 1 43 73 18 51
+e-mail:      support-fr@support.gandi.net
+website:     http://www.gandi.net
+anonymous:   NO
+registered:  09/03/2004
+source:      FRNIC
+
+nic-hdl:     GR283-FRNIC
+type:        ROLE
+contact:     GANDI ROLE
+address:     Gandi
+address:     15, place de la Nation
+address:     75011 Paris
+country:     FR
+e-mail:      noc@gandi.net
+trouble:     -------------------------------------------------
+trouble:     GANDI is an ICANN accredited registrar
+trouble:     for more information:
+trouble:     Web:   http://www.gandi.net
+trouble:     -------------------------------------------------
+trouble:     - network troubles: noc@gandi.net
+trouble:     - SPAM:             abuse@gandi.net
+trouble:     -------------------------------------------------
+admin-c:     NL346-FRNIC
+tech-c:      NL346-FRNIC
+tech-c:      TUF1-FRNIC
+notify:      noc@gandi.net
+registrar:   GANDI
+changed:     03/03/2006 noc@gandi.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CT1889-FRNIC
+type:        ORGANIZATION
+contact:     Tournay
+address:     9, place Marie Jeanne Bassot
+address:     92300 Levallois Perret
+country:     FR
+phone:       +33 1 41 34 99 00
+fax-no:      +33 1 55 63 95 08
+e-mail:      nathalie.henry@gandi.net
+registrar:   GANDI
+changed:     30/09/2013 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+eligstatus:  ok
+eligsource:  REGISTRAR
+eligdate:    30/09/2013 11:15:53
+source:      FRNIC
+
+nic-hdl:     D9344-FRNIC
+type:        ORGANIZATION
+contact:     Doctissimo
+address:     33, rue Raffet
+address:     75016 Paris
+country:     FR
+registrar:   GANDI
+changed:     15/02/2012 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

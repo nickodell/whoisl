@@ -1,0 +1,9 @@
+% Whois server 2.08d serving the hu ccTLD
+
+domain:         sxc.hu
+record created: 2003.01.26 01:00:08
+További adatokért ld.:
+http://www.domain.hu/domain/domainsearch/
+For further data see:
+http://www.domain.hu/domain/English/domainsearch/
+

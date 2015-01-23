@@ -1,0 +1,23 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+Domain Information:
+a. [Domain Name]                NIKKEI.CO.JP
+g. [Organization]               Nihon Keizai Shimbun Inc.
+l. [Organization Type]          The corporation for news paperpublishing and
+                                data base service
+m. [Administrative Contact]     HI261JP
+n. [Technical Contact]          HI261JP
+p. [Name Server]                george.nikkei.co.jp
+p. [Name Server]                mary.nikkei.co.jp
+p. [Name Server]                ns.spin.ad.jp
+p. [Name Server]                ns.tokyo.spin.ad.jp
+p. [Name Server]                wendy.nikkei.co.jp
+s. [Signing Key]                
+[State]                         Connected (2015/05/31)
+[Registered Date]               1993/05/27
+[Connected Date]                1993/06/17
+[Last Update]                   2014/06/01 01:13:36 (JST)
+

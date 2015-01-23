@@ -1,0 +1,89 @@
+% request from 129.19.1.59
+% This is the Ukrainian Whois query server #F.
+% The Whois is subject to Terms of use
+% See https://hostmaster.ua/services/
+%
+
+domain:           yandex.ua
+dom-public:       NO
+license:          48116
+registrant:       ua-yaru1-3
+admin-c:          ua-yaru1-1
+tech-c:           ua-cvb32-1
+mnt-by:           ua.forward
+nserver:          ns1.yandex.ru
+nserver:          ns2.yandex.ru
+status:           ok
+created:          2005-04-27 02:54:19+03
+modified:         2014-03-31 17:27:51+03
+expires:          2015-04-27 02:54:19+03
+source:           UAEPP
+
+% Registrar:
+% ==========
+registrar:        ua.forward
+organization:     FOP Cherkashin Vyacheslav Yurievich
+organization-loc: ФОП Черкашин В'ячеслав Юрійович
+url:              http://forward.com.ua
+city:             Dnipropetrovsk
+country:          UA
+source:           UAEPP
+
+% Registrant:
+% ===========
+contact-id:       ua-yaru1-3
+person:           OOO Yandex
+organization:     OOO Yandex
+e-mail:           noc@yandex.net
+address:          Lva Tolstogo str. 16
+address:          MOSCOW
+postal-code:      111033
+country:          RU
+country-loc:      RU
+phone:            +74957397000
+fax:              +74957397070
+mnt-by:           ua.forward
+status:           ok
+status:           linked
+created:          2014-03-31 17:27:51+03
+source:           UAEPP
+
+
+% Administrative Contacts:
+% =======================
+contact-id:       ua-yaru1-1
+person:           OOO Yandex
+organization:     OOO Yandex
+e-mail:           noc@yandex.net
+address:          Lva Tolstogo str. 16
+address:          MOSCOW
+postal-code:      111033
+country:          RU
+country-loc:      RU
+phone:            +74957397000
+fax:              +74957397070
+mnt-by:           ua.forward
+status:           ok
+status:           linked
+created:          2014-03-31 17:09:45+03
+source:           UAEPP
+
+
+% Technical Contacts:
+% ===================
+contact-id:       ua-cvb32-1
+person:           not published
+e-mail:           not published
+address:          not published
+address-loc:      not published
+phone:            not published
+mnt-by:           ua.forward
+status:           ok
+status:           linked
+created:          2014-03-31 17:08:09+03
+source:           UAEPP
+
+
+
+% Query time:     5 msec
+

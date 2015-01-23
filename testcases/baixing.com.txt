@@ -1,0 +1,114 @@
+
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+   Domain Name: BAIXING.COM
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Sponsoring Registrar IANA ID: 1316
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: NS3.DNSV4.COM
+   Name Server: NS4.DNSV4.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 18-apr-2014
+   Creation Date: 18-apr-2001
+   Expiration Date: 18-apr-2024
+
+>>> Last update of whois database: Thu, 22 Jan 2015 16:23:21 GMT <<<
+
+NOTICE: The expiration date displayed in this record is the date the 
+registrar's sponsorship of the domain name registration in the registry is 
+currently set to expire. This date does not necessarily reflect the expiration 
+date of the domain name registrant's agreement with the sponsoring 
+registrar.  Users may consult the sponsoring registrar's Whois database to 
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois 
+database through the use of electronic processes that are high-volume and 
+automated except as reasonably necessary to register domain names or 
+modify existing registrations; the Data in VeriSign Global Registry 
+Services' ("VeriSign") Whois database is provided by VeriSign for 
+information purposes only, and to assist persons in obtaining information 
+about or related to a domain name registration record. VeriSign does not 
+guarantee its accuracy. By submitting a Whois query, you agree to abide 
+by the following terms of use: You agree that you may use this Data only 
+for lawful purposes and that under no circumstances will you use this Data 
+to: (1) allow, enable, or otherwise support the transmission of mass 
+unsolicited, commercial advertising or solicitations via e-mail, telephone, 
+or facsimile; or (2) enable high volume, automated, electronic processes 
+that apply to VeriSign (or its computer systems). The compilation, 
+repackaging, dissemination or other use of this Data is expressly 
+prohibited without the prior written consent of VeriSign. You agree not to 
+use electronic processes that are automated and high-volume to access or 
+query the Whois database except as reasonably necessary to register 
+domain names or modify existing registrations. VeriSign reserves the right 
+to restrict your access to the Whois database in its sole discretion to ensure 
+operational stability.  VeriSign may restrict or terminate your access to the 
+Whois database for failure to abide by these terms of use. VeriSign 
+reserves the right to modify these terms at any time. 
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+For more information on Whois status codes, please visit 
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+Domain Name: baixing.com
+Registry Domain ID:
+Registrar WHOIS Server: whois.35.com
+Registrar URL: http://www.35.com
+Updated Date: 2014-04-18 14:56:04
+Creation Date: 2001-04-18
+Registrar Registration Expiration Date: 2026-04-18
+Registrar: 35 Technology Co., Ltd.
+Registrar IANA ID: 1316
+Registrar Abuse Contact Email: abuse@35.cn
+Registrar Abuse Contact Phone: +86.5925391800
+Domain Status: clientTransferProhibited
+Registry Registrant ID:
+Registrant Name:Shanghai Kijiji Information Technology Co.,Ltd
+Registrant Organization:Shanghai Kijiji Information Technology Co.,Ltd
+Registrant Street:Room 1808, Haoran Hi-tech Building, 55 Guangyuan West Road,
+Registrant City:Shanghai
+Registrant State/Province:Shanghai
+Registrant Postal Code:200030
+Registrant Country:CN
+Registrant Phone:+86.2152589820
+Registrant Phone Ext:
+Registrant Fax:+86.2152589825
+Registrant Fax Ext:
+Registrant Email:domain@baixing.com
+Registry Admin ID:
+Admin Name:Shanghai Kijiji Information Technology Co.,Ltd
+Admin Organization:Shanghai Kijiji Information Technology Co.,Ltd
+Admin Street:Room 1808, Haoran Hi-tech Building, 55 Guangyuan West Road,
+Admin City:Shanghai
+Admin State/Province:Shanghai
+Admin Postal Code:200030
+Admin Country:CN
+Admin Phone:+86.2152589820
+Admin Phone Ext:
+Admin Fax:+86.2152589825
+Admin Fax Ext:
+Admin Email:domain@baixing.com
+Registry Tech ID:
+Tech Name:Shanghai Kijiji Information Technology Co.,Ltd
+Tech Organization:Shanghai Kijiji Information Technology Co.,Ltd
+Tech Street:Room 1808, Haoran Hi-tech Building, 55 Guangyuan West Road,
+Tech City:Shanghai
+Tech State/Province:Shanghai
+Tech Postal Code:200030
+Tech Country:CN
+Tech Phone:+86.2152589820
+Tech Phone Ext:
+Tech Fax:+86.2152589825
+Tech Fax Ext:
+Tech Email:domain@baixing.com
+Name Server: ns3.dnsv4.com
+Name Server: ns4.dnsv4.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System:http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2014-04-18 14:56:04 <<<

@@ -1,0 +1,13 @@
+Domain Name: pcauto.com.cn
+ROID: 20021209s10011s00108257-cn
+Domain Status: clientUpdateProhibited
+Domain Status: clientTransferProhibited
+Registrant ID: gtfxso2kft39x
+Registrant: 广东太平洋互联网信息服务有限公司
+Registrant Contact Email: dns@pconline.com.cn
+Sponsoring Registrar: 北京新网数码信息技术有限公司
+Name Server: ns.pc.com.cn
+Name Server: ns2.pc.com.cn
+Registration Date: 2001-12-07 00:00:00
+Expiration Date: 2017-12-07 00:00:00
+DNSSEC: unsigned

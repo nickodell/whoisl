@@ -1,0 +1,42 @@
+Domain name:           craigslist.ca
+Domain status:         registered
+Creation date:         2004/08/06
+Expiry date:           2015/08/06
+Updated date:          2014/07/05
+DNSSEC:                Unsigned
+
+Registrar:
+    Name:              MarkMonitor International Canada Ltd.
+    Number:            5000040
+
+Registrant:
+    Name:              Craigslist, Inc. TMA671414
+
+Administrative contact:
+    Name:              Eric Scheide
+    Postal address:    1381 9th Avenue
+                       San Francisco CA 77002 United States
+    Phone:             +1.4153995200
+    Fax:
+    Email:             hostmaster@craigslist.org
+
+Technical contact:
+    Name:              Eric Scheide
+    Postal address:    1381 9th Avenue
+                       San Francisco CA 77002 United States
+    Phone:             +1.4153995200
+    Fax:
+    Email:             hostmaster@craigslist.org
+
+Name servers:
+    ns2p.craigslist.org
+    ns1f.craigslist.org
+    ns1p.craigslist.org
+    ns2f.craigslist.org
+
+% WHOIS look-up made at 2015-01-23 21:22:05 (GMT)
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en 
+%
+% (c) 2015 Canadian Internet Registration Authority, (http://www.cira.ca/) 

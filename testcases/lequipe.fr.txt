@@ -1,0 +1,90 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [129.19.1.59 REQUEST] >> -V Md5.1 lequipe.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      lequipe.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SLE68-FRNIC
+admin-c:     PR727-FRNIC
+tech-c:      AMC66-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1807-FRNIC
+registrar:   WORLDLINE
+anniversary: 03/11
+created:     03/11/1997
+last-update: 06/03/2009
+source:      FRNIC
+
+ns-list:     NSL1807-FRNIC
+nserver:     ns3.atos.net
+nserver:     ns4.atos.net
+source:      FRNIC
+
+registrar:   WORLDLINE
+type:        Isp Option 2
+anonymous:   YES
+registered:  19/01/2005
+source:      FRNIC
+
+nic-hdl:     PR727-FRNIC
+type:        PERSON
+contact:     Paul Roussel
+address:     SNC L'Equipe
+address:     4, rue Rouget de l'Isle
+address:     92137 Issy-les-Moulineaux Cedex
+country:     FR
+phone:       +33 1 40 93 20 20
+fax-no:      +33 1 40 93 20 08
+registrar:   WORLDLINE
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AMC66-FRNIC
+type:        ROLE
+contact:     ATOS WORLDLINE Contact technique
+address:     Atos Worldline
+address:     zone industrielle A rue la Pointe
+address:     59113 Seclin
+country:     FR
+phone:       +33 3 20 60 79 79
+e-mail:      ao-dom@atosorigin.com
+admin-c:     PB868-FRNIC
+tech-c:      EW1780-FRNIC
+notify:      ao-dom@atosorigin.com
+registrar:   WORLDLINE
+changed:     16/09/2008 ao-dom@atosorigin.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SLE68-FRNIC
+type:        ORGANIZATION
+contact:     SNC L'Equipe
+address:     4, rue Rouget de l'Isle
+address:     92137 Issy-les-Moulineaux
+country:     FR
+phone:       +33 1 40 93 20 20
+registrar:   WORLDLINE
+changed:     03/01/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+eligstatus:  ok
+eligdate:    03/01/2011 15:05:03
+source:      FRNIC
+

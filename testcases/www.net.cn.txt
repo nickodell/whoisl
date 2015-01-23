@@ -1,0 +1,14 @@
+Domain Name: www.net.cn
+ROID: 20021209s10021s00003058-cn
+Domain Status: clientDeleteProhibited
+Domain Status: clientUpdateProhibited
+Domain Status: clientTransferProhibited
+Registrant ID: hc034904482-cn
+Registrant: 北京万网志成科技有限公司
+Registrant Contact Email: xiaoyue.wang@hichina.com
+Sponsoring Registrar: 北京万网志成科技有限公司
+Name Server: ns1.hichina.com
+Name Server: ns2.hichina.com
+Registration Date: 1998-10-19 00:00:00
+Expiration Date: 2020-10-19 00:00:00
+DNSSEC: unsigned

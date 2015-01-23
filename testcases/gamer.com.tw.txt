@@ -1,0 +1,22 @@
+Domain Name: gamer.com.tw
+Registrant:
+旺普網路資訊股份有限公司
+Oneup Network Corp.
+1221B, No.144, Sec 3, Minquan E. Rd., Taipei, Taiwan, R.O.C.
+
+   Contact:
+      sega   sega@gamer.com.tw
+      TEL:  (02)25175168
+      FAX:  (02)27172188
+
+   Record expires on 2018-09-10 (YYYY-MM-DD)
+   Record created on 2000-07-10 (YYYY-MM-DD)
+
+   Domain servers in listed order:
+      ns-245.awsdns-30.com           
+      ns-916.awsdns-50.net           
+      ns-1346.awsdns-40.org          
+      ns-1647.awsdns-13.co.uk        
+
+Registration Service Provider: TWNIC
+

@@ -1,0 +1,68 @@
+% Copyright (c)2015 by NIC.AT (1)                                       
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         orf.at
+registrant:     OR9889210-NICAT
+admin-c:        OR9800321-NICAT
+tech-c:         AAPA9798442-NICAT
+nserver:        ns1.apa.at
+remarks:        194.158.133.1
+nserver:        ns2.apa.at
+remarks:        194.232.133.2
+changed:        20141119 14:28:40
+source:         AT-DOM
+
+personname:     Online Direktion-Thomas Prantner
+organization:   Oesterreichischer Rundfunk
+street address: Wuerzburggasse 31
+postal code:    1136
+city:           Wien
+country:        Austria
+phone:          +4318787821400
+fax-no:         +43187878521400
+e-mail:         online.direktion@orf.at
+nic-hdl:        OR9889210-NICAT
+changed:        20141119 14:28:36
+source:         AT-DOM
+
+personname:     Domain Administrator
+organization:   Oesterreichischer Rundfunk
+street address: Wuerzburggasse 30a
+postal code:    1136
+city:           Wien
+country:        Austria
+nic-hdl:        OR9800321-NICAT
+changed:        20140923 08:52:09
+source:         AT-DOM
+
+personname:     APA DNS Admin
+organization:   APA Austria Presse Agentur
+street address: Laimgrubengasse 10
+postal code:    A-1060
+city:           Wien
+country:        Austria
+e-mail:         domain-admin@apa.at
+nic-hdl:        AAPA9798442-NICAT
+changed:        20140922 07:53:27
+source:         AT-DOM
+

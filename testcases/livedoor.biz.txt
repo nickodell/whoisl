@@ -1,0 +1,94 @@
+Domain Name:                                 LIVEDOOR.BIZ
+Domain ID:                                   D1188141-BIZ
+Sponsoring Registrar:                        KEY-SYSTEMS GMBH
+Sponsoring Registrar IANA ID:                269
+Registrar URL (registration services):       www.key-systems.net
+Domain Status:                               ok
+Variant:                                     LIVEDOOR.BIZ
+Registrant ID:                               LKD1739998164
+Registrant Name:                             Legal Division Domain Manager
+Registrant Organization:                     LINE Corporation
+Registrant Address1:                         Shibuya Hikarie 27F
+Registrant Address2:                         2-21-1 Shibuya
+Registrant City:                             Shibuya-ku
+Registrant State/Province:                   Tokyo
+Registrant Postal Code:                      150-8510
+Registrant Country:                          Japan
+Registrant Country Code:                     JP
+Registrant Phone Number:                     +81.343307212
+Registrant Facsimile Number:                 +81.343307212
+Registrant Email:                            domain@livedoor.jp
+Administrative Contact ID:                   LKD1739998164
+Administrative Contact Name:                 Legal Division Domain Manager
+Administrative Contact Organization:         LINE Corporation
+Administrative Contact Address1:             Shibuya Hikarie 27F
+Administrative Contact Address2:             2-21-1 Shibuya
+Administrative Contact City:                 Shibuya-ku
+Administrative Contact State/Province:       Tokyo
+Administrative Contact Postal Code:          150-8510
+Administrative Contact Country:              Japan
+Administrative Contact Country Code:         JP
+Administrative Contact Phone Number:         +81.343307212
+Administrative Contact Facsimile Number:     +81.343307212
+Administrative Contact Email:                domain@livedoor.jp
+Billing Contact ID:                          LKD1739998164
+Billing Contact Name:                        Legal Division Domain Manager
+Billing Contact Organization:                LINE Corporation
+Billing Contact Address1:                    Shibuya Hikarie 27F
+Billing Contact Address2:                    2-21-1 Shibuya
+Billing Contact City:                        Shibuya-ku
+Billing Contact State/Province:              Tokyo
+Billing Contact Postal Code:                 150-8510
+Billing Contact Country:                     Japan
+Billing Contact Country Code:                JP
+Billing Contact Phone Number:                +81.343307212
+Billing Contact Facsimile Number:            +81.343307212
+Billing Contact Email:                       domain@livedoor.jp
+Technical Contact ID:                        LKD1739998164
+Technical Contact Name:                      Legal Division Domain Manager
+Technical Contact Organization:              LINE Corporation
+Technical Contact Address1:                  Shibuya Hikarie 27F
+Technical Contact Address2:                  2-21-1 Shibuya
+Technical Contact City:                      Shibuya-ku
+Technical Contact State/Province:            Tokyo
+Technical Contact Postal Code:               150-8510
+Technical Contact Country:                   Japan
+Technical Contact Country Code:              JP
+Technical Contact Phone Number:              +81.343307212
+Technical Contact Facsimile Number:          +81.343307212
+Technical Contact Email:                     domain@livedoor.jp
+Name Server:                                 LDNS01.DATA-HOTEL.NET
+Name Server:                                 LDNS02.DATA-HOTEL.NET
+Name Server:                                 LDNS03.DATA-HOTEL.NET
+Name Server:                                 LDNS04.DATA-HOTEL.NET
+Created by Registrar:                        MELBOURNE IT LTD
+Last Updated by Registrar:                   KEY-SYSTEMS GMBH
+Last Transferred Date:                       Sat Oct 31 03:16:34 GMT 2009
+Domain Registration Date:                    Thu Nov 08 04:31:32 GMT 2001
+Domain Expiration Date:                      Sat Nov 07 23:59:59 GMT 2015
+Domain Last Updated Date:                    Tue Sep 30 04:59:30 GMT 2014
+DNSSEC:                                      false
+
+>>>> Whois database was last updated on: Wed Jan 21 19:01:59 GMT 2015 <<<<
+
+NeuStar, Inc., the Registry Operator for .BIZ, has collected this information
+for the WHOIS database through an ICANN-Accredited Registrar. This information
+is provided to you for informational purposes only and is designed to assist
+persons in determining contents of a domain name registration record in the
+NeuStar registry database. NeuStar makes this information available to you
+"as is" and does not guarantee its accuracy. By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data: (1) to allow, enable, or otherwise
+support the transmission of mass unsolicited, commercial advertising or
+solicitations via direct mail, electronic mail, or by telephone; (2) in
+contravention of any applicable data and privacy protection acts; or (3) to
+enable high volume, automated, electronic processes that apply to the registry
+(or its systems). Compilation, repackaging, dissemination, or other use of the
+WHOIS database in its entirety, or of a substantial portion thereof, is not
+allowed without NeuStar's prior written permission. NeuStar reserves the
+right to modify or change these conditions at any time without prior or
+subsequent notification of any kind. By executing this query, in any manner
+whatsoever, you agree to abide by these terms.
+
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE
+OF THE AVAILABILITY OF A DOMAIN NAME.

@@ -1,0 +1,28 @@
+
+DOMAIN NAME:           gazeta.pl
+registrant type:       organization
+nameservers:           hera.gazeta.pl. [193.42.228.9]
+                       zeus.gazeta.pl. [194.149.228.9]
+created:               2001.01.01 12:00:00
+last modified:         2014.12.23 10:49:53
+renewal date:          2015.12.31 13:00:00
+
+option created:        2014.12.30 12:04:41
+option expiration date:       2017.12.30 12:04:41
+
+dnssec:                Unsigned
+
+
+REGISTRAR:
+home.pl S.A.
+ul. Zbozowa 4
+70-653 Szczecin
+Polska/Poland
++48.914325555
+801445555
+https://home.pl/kontakt
+
+WHOIS database responses: http://www.dns.pl/english/opiskomunikatow_en.html
+
+WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system
+Registrant data available at http://dns.pl/cgi-bin/en_whois.pl

@@ -1,0 +1,102 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.176.54.181 REQUEST] >> -V Md5.1 amazon.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      amazon.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    AEHT8-FRNIC
+admin-c:     XG269-FRNIC
+tech-c:      NHL6-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL43641-FRNIC
+registrar:   HOGAN LOVELLS (PARIS) LLP
+anniversary: 16/04
+created:     16/04/2008
+last-update: 25/04/2013
+source:      FRNIC
+
+ns-list:     NSL43641-FRNIC
+nserver:     pdns1.ultradns.net
+nserver:     ns1.p31.dynect.net
+nserver:     ns2.p31.dynect.net
+nserver:     pdns3.ultradns.org
+nserver:     pdns4.ultradns.org
+nserver:     pdns5.ultradns.info
+source:      FRNIC
+
+registrar:   HOGAN LOVELLS (PARIS) LLP
+type:        Isp Option 2
+address:     17 avenue Matignon
+address:     PARIS
+country:     FR
+phone:       +33 1 53 67 47 47
+fax-no:      +33 1 53 67 47 48
+e-mail:      frenchdomains@lovellsnames.org
+website:     http://www.hoganlovells.com
+anonymous:   NO
+registered:  02/07/2001
+source:      FRNIC
+
+nic-hdl:     XG269-FRNIC
+type:        PERSON
+contact:     Xavier Garambois
+address:     Amazon.fr SAS
+address:     immeuble Maillot 2000
+address:     251, boulevard Pereire
+address:     75852 Paris Cedex 17
+country:     FR
+phone:       +33 1 56 60 46 00
+fax-no:      +33 1 56 60 46 01
+e-mail:      frenchdomains@lovellsnames.org
+registrar:   HOGAN LOVELLS (PARIS) LLP
+changed:     29/04/2008 frenchdomains@lovellsnames.org
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AEHT8-FRNIC
+type:        ORGANIZATION
+contact:     Amazon Europe Holding Technologies SCS
+address:     65, boulevard Grande-Duchesse Charlotte
+address:     01311 Luxembourg
+country:     LU
+phone:       +35 22299995235
+e-mail:      frenchdomains@lovellsnames.org
+registrar:   HOGAN LOVELLS (PARIS) LLP
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+eligstatus:  ok
+eligdate:    29/04/2008 00:00:00
+source:      FRNIC
+
+nic-hdl:     NHL6-FRNIC
+type:        ORGANIZATION
+contact:     NOC HOGAN LOVELLS
+address:     Hogan Lovells (Paris) LLP
+address:     17, avenue Matignon
+address:     75008 Paris
+country:     FR
+phone:       +33 1 53 67 47 47
+fax-no:      +33 1 53 67 47 48
+e-mail:      frenchdomains@lovellsnames.org
+registrar:   HOGAN LOVELLS (PARIS) LLP
+changed:     23/04/2013 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

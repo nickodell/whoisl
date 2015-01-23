@@ -1,0 +1,58 @@
+
+*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://www.nic.it/cgi-bin/Whois/whois.cgi                         *
+*********************************************************************
+
+Domain:             repubblica.it
+Status:             ok
+Created:            1996-05-15 00:00:00
+Last Update:        2015-01-15 14:45:14
+Expire Date:        2015-09-17
+
+Registrant
+  Organization:     Gruppo Editoriale L'Espresso SPA
+  Address:          Via Po, 12
+                    Roma
+                    00198
+                    RM
+                    IT
+  Created:          2007-03-01 10:47:18
+  Last Update:      2011-08-04 12:32:45
+
+Admin Contact
+  Name:             Pier Paolo Cervi
+  Organization:     Elemedia S.p.A.
+  Address:          Via Cristoforo Colombo, 98
+                    Roma
+                    00147
+                    RM
+                    IT
+  Created:          2011-11-10 14:13:30
+  Last Update:      2011-11-10 14:13:30
+
+Technical Contacts
+  Name:             Domain Name Management Service
+  Organization:     BT Italia S.p.A.
+  Address:          BT Italia S.p.A.
+                    Roma
+                    00142
+                    RM
+                    IT
+  Created:          2007-04-03 13:16:14
+  Last Update:      2011-11-21 10:33:35
+
+Registrar
+  Organization:     BT Italia s.p.a.
+  Name:             BTITALIA-REG
+  Web:              http://www.italia.bt.com
+
+Nameservers
+  ns-1541.awsdns-00.co.uk
+  ns-1477.awsdns-56.org
+  ns-723.awsdns-26.net
+  ns-353.awsdns-44.com
+

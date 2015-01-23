@@ -1,0 +1,12 @@
+Domain Name: vnet.cn
+ROID: 20030312s10001s00054089-cn
+Domain Status: clientTransferProhibited
+Registrant ID: jt-19781_00
+Registrant: 中国电信集团公司
+Registrant Contact Email: domain@chinatelecom.com.cn
+Sponsoring Registrar: 厦门三五互联科技股份有限公司
+Name Server: ns1.chinanet.cn
+Name Server: ns2.chinanet.cn
+Registration Date: 2003-03-17 12:20:05
+Expiration Date: 2019-03-17 12:48:36
+DNSSEC: unsigned

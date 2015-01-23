@@ -1,0 +1,21 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+Domain Information:
+a. [Domain Name]                INFOSEEK.CO.JP
+g. [Organization]               Panda Kikaku,Ltd.
+l. [Organization Type]          Corporation
+m. [Administrative Contact]     TK29435JP
+n. [Technical Contact]          TK29460JP
+p. [Name Server]                ns01c.rakuten.co.jp
+p. [Name Server]                ns03.rakuten.co.jp
+p. [Name Server]                ns04.rakuten.co.jp
+p. [Name Server]                ns05c.rakuten.co.jp
+s. [Signing Key]                
+[State]                         Connected (2015/03/31)
+[Registered Date]               2004/03/23
+[Connected Date]                2004/03/23
+[Last Update]                   2014/05/15 09:27:53 (JST)
+

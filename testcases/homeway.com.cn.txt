@@ -1,0 +1,13 @@
+Domain Name: homeway.com.cn
+ROID: 20021209s10011s00106667-cn
+Domain Status: clientUpdateProhibited
+Registrant ID: hc011600233-cn
+Registrant: 北京和讯在线信息咨询服务有限公司
+Registrant Contact Email: rongyating@staff.hexun.com
+Sponsoring Registrar: 北京万网志成科技有限公司
+Name Server: ns.homeway.com.cn
+Name Server: ns2.homeway.com.cn
+Name Server: ns3.homeway.com.cn
+Registration Date: 1997-04-22 00:00:00
+Expiration Date: 2015-07-01 00:00:00
+DNSSEC: unsigned

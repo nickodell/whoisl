@@ -1,0 +1,32 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'persianblog.ir'
+
+
+domain:		persianblog.ir
+ascii:		persianblog.ir
+remarks:	(Domain Holder) PersianBlog
+remarks:	(Domain Holder Address) No. 104, Floor One, Goldis Building, Front of Mosalla, Shahid Beheshti St.Tehran, IR1587775648, IR
+holder-c:	---
+admin-c:	pe52-irnic
+tech-c:		pe52-irnic
+nserver:	ns8.persianorbit.com
+nserver:	ns9.persianorbit.com
+last-updated:	2012-02-12
+expire-date:	2017-03-07
+source:		IRNIC # Filtered
+
+nic-hdl:	pe52-irnic
+org:		persianblog
+e-mail:		a.mostafazadeh@gmail.com
+address:	4th floor, No.300, Goldis Bldg., Mir Emad Crossing, Beheshti avenue, Tehran, Tehran, IR
+phone:		88750200
+fax-no:		88504935
+source:		IRNIC # Filtered
+

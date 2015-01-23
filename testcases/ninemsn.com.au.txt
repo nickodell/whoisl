@@ -1,0 +1,31 @@
+Domain Name:                     ninemsn.com.au
+Last Modified:                   02-Dec-2014 06:12:37 UTC
+Status:                          ok
+Registrar Name:                  Corporation Service Company (Australia) Pty Ltd
+
+Registrant:                      NineMSN Pty Limited
+Registrant ID:                   OTHER 077 753 461
+Eligibility Type:                Other
+Eligibility Name:                NINEMSN
+Eligibility ID:                  NSW BN BN97757527 (NSW)
+
+Registrant Contact ID:           X114913347381283
+Registrant Contact Name:         Domain Administrator
+Registrant Contact Email:        Visit whois.ausregistry.com.au for Web based WhoIs
+
+Tech Contact ID:                 X114913347381283
+Tech Contact Name:               Domain Administrator
+Tech Contact Email:              Visit whois.ausregistry.com.au for Web based WhoIs
+
+Name Server:                     dns0.optus.net.au
+Name Server IP:                  202.139.83.3
+Name Server:                     ns1.telstra.net
+Name Server:                     dns1.hostworks.net.au
+Name Server IP:                  202.58.37.1
+Name Server:                     dns2.hostworks.net.au
+Name Server IP:                  202.58.37.2
+Name Server:                     dns3.hostworks.net.au
+Name Server IP:                  202.59.37.1
+Name Server:                     dns4.hostworks.net.au
+Name Server IP:                  202.59.37.2
+DNSSEC:                          unsigned

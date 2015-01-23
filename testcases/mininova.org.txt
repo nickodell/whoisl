@@ -1,0 +1,74 @@
+Domain Name:MININOVA.ORG
+Domain ID: D105594373-LROR
+Creation Date: 2005-01-18T11:29:57Z
+Updated Date: 2015-01-19T01:21:23Z
+Registry Expiry Date: 2016-01-18T11:29:57Z
+Sponsoring Registrar:Key-Systems GmbH (R51-LROR)
+Sponsoring Registrar IANA ID: 269
+WHOIS Server: 
+Referral URL: 
+Domain Status: ok
+Domain Status: autoRenewPeriod
+Registrant ID:P-9714357
+Registrant Name:R.J. Demmenie
+Registrant Organization:Content Distribution B.V.
+Registrant Street: Westerkade 18
+Registrant City:Utrecht
+Registrant State/Province:
+Registrant Postal Code:3511 HB
+Registrant Country:NL
+Registrant Phone:+31.614323238
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email:info@mininovacd.org
+Admin ID:P-11431417
+Admin Name:R.J. Demmenie
+Admin Organization:Content Distribution B.V.
+Admin Street: Westerkade 18
+Admin City:Utrecht
+Admin State/Province:
+Admin Postal Code:3511 HB
+Admin Country:NL
+Admin Phone:+31.614323238
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email:info@mininovacd.org
+Tech ID:P-18626613
+Tech Name:R.J. Demmenie
+Tech Organization:Content Distribution B.V.
+Tech Street: Westerkade 18
+Tech City:Utrecht
+Tech State/Province:
+Tech Postal Code:3511 HB
+Tech Country:NL
+Tech Phone:+31.614323238
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email:info@mininovacd.org
+Name Server:NS1.TRANSIP.NL
+Name Server:NS0.TRANSIP.NET
+Name Server:NS2.TRANSIP.EU
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+DNSSEC:signedDelegation
+DS Created 1:2012-08-01T06:25:31Z
+DS Key Tag 1:26433
+Algorithm 1:7
+Digest Type 1:2
+Digest 1:044B653A31E383FD6DC0ACD53E3D18FEA78A445DB7DBC31B56EC138C14692073
+DS Maximum Signature Life 1:1814400 seconds
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+

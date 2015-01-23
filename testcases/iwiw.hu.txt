@@ -1,0 +1,9 @@
+% Whois server 2.08d serving the hu ccTLD
+
+domain:         iwiw.hu
+record created: 2004.10.15 13:12:14
+További adatokért ld.:
+http://www.domain.hu/domain/domainsearch/
+For further data see:
+http://www.domain.hu/domain/English/domainsearch/
+

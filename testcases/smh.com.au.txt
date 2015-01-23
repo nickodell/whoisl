@@ -1,0 +1,23 @@
+Domain Name:                     smh.com.au
+Last Modified:                   09-Nov-2014 21:06:39 UTC
+Status:                          serverDeleteProhibited (Protected by .auLOCKDOWN)
+Status:                          serverUpdateProhibited (Protected by .auLOCKDOWN)
+Registrar Name:                  Corporation Service Company (Australia) Pty Ltd
+
+Registrant:                      FAIRFAX MEDIA PUBLICATIONS PTY LIMITED
+Registrant ID:                   ACN 003 357 720
+Eligibility Type:                Other
+
+Registrant Contact ID:           0499575E68975307
+Registrant Contact Name:         Admin Contact Fairfax Digital
+Registrant Contact Email:        Visit whois.ausregistry.com.au for Web based WhoIs
+
+Tech Contact ID:                 9435972E6886D717
+Tech Contact Name:               Admin Contact Fairfax Digital
+Tech Contact Email:              Visit whois.ausregistry.com.au for Web based WhoIs
+
+Name Server:                     ns-609.awsdns-12.net
+Name Server:                     ns-322.awsdns-40.com
+Name Server:                     ns-1164.awsdns-17.org
+Name Server:                     ns-2042.awsdns-63.co.uk
+DNSSEC:                          unsigned

@@ -1,0 +1,21 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+Domain Information:
+a. [Domain Name]                RAKUTEN.NE.JP
+d. [Network Service Name]       rakuten network
+l. [Organization Type]          Network Service
+m. [Administrative Contact]     TK29440JP
+n. [Technical Contact]          TK29440JP
+p. [Name Server]                ns01c.rakuten.co.jp
+p. [Name Server]                ns03.rakuten.co.jp
+p. [Name Server]                ns04.rakuten.co.jp
+p. [Name Server]                ns05c.rakuten.co.jp
+s. [Signing Key]                
+[State]                         Connected (2015/07/31)
+[Registered Date]               1998/07/16
+[Connected Date]                1998/09/10
+[Last Update]                   2014/08/01 01:04:16 (JST)
+

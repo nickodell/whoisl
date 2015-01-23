@@ -1,0 +1,20 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+Domain Information:
+a. [Domain Name]                EXCITE.CO.JP
+g. [Organization]               Excite Japan Co., Ltd.
+l. [Organization Type]          Corporation
+m. [Administrative Contact]     YN10014JP
+n. [Technical Contact]          ST9934JP
+p. [Name Server]                asia3.akam.net
+p. [Name Server]                ns1-215.akam.net
+p. [Name Server]                use5.akam.net
+s. [Signing Key]                
+[State]                         Connected (2015/08/31)
+[Registered Date]               1997/08/22
+[Connected Date]                1997/10/09
+[Last Update]                   2014/09/01 01:06:15 (JST)
+

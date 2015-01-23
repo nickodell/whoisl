@@ -1,0 +1,32 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+Domain Information:
+[Domain Name]                   GEOCITIES.JP
+
+[Registrant]                    Yahoo Japan Corporation
+
+[Name Server]                   ns01.yahoo.co.jp
+[Name Server]                   ns02.yahoo.co.jp
+[Name Server]                   ns11.yahoo.co.jp
+[Name Server]                   ns12.yahoo.co.jp
+[Signing Key]                   
+
+[Created on]                    2001/05/07
+[Expires on]                    2015/05/31
+[Status]                        Active
+[Last Updated]                  2014/06/01 01:05:11 (JST)
+
+Contact Information:
+[Name]                          Imako Sayuri
+[Email]                         jpnic-contact@mail.yahoo.co.jp
+[Web Page]                       
+[Postal code]                   106-6182
+[Postal Address]                Roppongi Hills Mori Tower
+                                10-1, Roppongi 6-chome
+                                Minato-ku,
+[Phone]                         03-6440-6000
+[Fax]                           
+

@@ -1,0 +1,14 @@
+Domain Name: yahoo.com.cn
+ROID: 20021209s10011s00008998-cn
+Domain Status: clientDeleteProhibited
+Domain Status: clientUpdateProhibited
+Domain Status: clientTransferProhibited
+Registrant ID: mmr-2460
+Registrant: Yahoo! Inc.
+Registrant Contact Email: domainadmin@yahoo-inc.com
+Sponsoring Registrar: MarkMonitor Inc.
+Name Server: ns6.yahoo.com
+Name Server: ns3.yahoo.com
+Registration Date: 1998-06-04 00:00:00
+Expiration Date: 2016-06-04 00:00:00
+DNSSEC: unsigned

@@ -1,0 +1,14 @@
+Domain Name: zol.com.cn
+ROID: 20021209s10011s00001025-cn
+Domain Status: serverDeleteProhibited
+Domain Status: serverUpdateProhibited
+Domain Status: serverTransferProhibited
+Registrant ID: c1342574767975
+Registrant: 北京智德典康电子商务有限公司
+Registrant Contact Email: dnsadmin@zol.com.cn
+Sponsoring Registrar: 北京万网志成科技有限公司
+Name Server: ns.cnet.com.cn
+Name Server: ns1.cnet.com.cn
+Registration Date: 1999-03-01 00:00:00
+Expiration Date: 2015-03-01 00:00:00
+DNSSEC: unsigned

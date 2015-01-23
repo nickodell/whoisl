@@ -1,0 +1,32 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+Domain Information:
+[Domain Name]                   AMEBA.JP
+
+[Registrant]                    CyberAgent, Inc.
+
+[Name Server]                   ns-115.awsdns-14.com
+[Name Server]                   ns-1187.awsdns-20.org
+[Name Server]                   ns-953.awsdns-55.net
+[Name Server]                   ns-1836.awsdns-37.co.uk
+[Signing Key]                   
+
+[Created on]                    2004/06/08
+[Expires on]                    2015/06/30
+[Status]                        Active
+[Last Updated]                  2014/07/01 01:05:11 (JST)
+
+Contact Information:
+[Name]                          CyberAgent, Inc.
+[Email]                         support@ameba.jp
+[Web Page]                       
+[Postal code]                   150-0043
+[Postal Address]                Shibuya-ku
+                                2-11-1 Dogenzaka
+                                Cyberagent Building 8F
+[Phone]                         03-5459-0239
+[Fax]                           03-5459-1880
+

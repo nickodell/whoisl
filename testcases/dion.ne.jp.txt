@@ -1,0 +1,23 @@
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+Domain Information:
+a. [Domain Name]                DION.NE.JP
+d. [Network Service Name]       DION
+l. [Organization Type]          Network Service
+m. [Administrative Contact]     KT6191JP
+n. [Technical Contact]          KW062JP
+p. [Name Server]                dns0.dion.ne.jp
+p. [Name Server]                dns10.dion.ne.jp
+p. [Name Server]                dns2.dion.ne.jp
+p. [Name Server]                dnsa01.kddi.ne.jp
+p. [Name Server]                dnsa02.kddi.ne.jp
+p. [Name Server]                ns1.neweb.ne.jp
+s. [Signing Key]                
+[State]                         Connected (2015/05/31)
+[Registered Date]               1997/05/02
+[Connected Date]                1997/06/19
+[Last Update]                   2014/10/20 10:11:22 (JST)
+

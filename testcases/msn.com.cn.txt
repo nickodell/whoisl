@@ -1,0 +1,16 @@
+Domain Name: msn.com.cn
+ROID: 20021209s10011s00018786-cn
+Domain Status: clientDeleteProhibited
+Domain Status: clientUpdateProhibited
+Domain Status: clientTransferProhibited
+Registrant ID: mark-129791
+Registrant: Microsoft Corporation
+Registrant Contact Email: domains@microsoft.com
+Sponsoring Registrar: MarkMonitor Inc.
+Name Server: ns1.msft.net
+Name Server: ns2.msft.net
+Name Server: ns3.msft.net
+Name Server: ns4.msft.net
+Registration Date: 1998-11-27 00:00:00
+Expiration Date: 2015-11-27 00:00:00
+DNSSEC: unsigned

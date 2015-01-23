@@ -1,0 +1,26 @@
+Domain Name:                     news.com.au
+Last Modified:                   19-Sep-2013 01:45:33 UTC
+Status:                          clientDeleteProhibited (Client protection)
+Status:                          serverDeleteProhibited (Protected by .auLOCKDOWN)
+Status:                          serverUpdateProhibited (Protected by .auLOCKDOWN)
+Registrar Name:                  Domain Directors
+
+Registrant:                      News Limited
+Registrant ID:                   OTHER 007 871 178
+Eligibility Type:                Other
+
+Registrant Contact ID:           IN1378263656786
+Registrant Contact Name:         News Domain Administrator
+Registrant Contact Email:        Visit whois.ausregistry.com.au for Web based WhoIs
+
+Tech Contact ID:                 IN1378263652318
+Tech Contact Name:               News Domain Administrator
+Tech Contact Email:              Visit whois.ausregistry.com.au for Web based WhoIs
+
+Name Server:                     usc1.akam.net
+Name Server:                     usc4.akam.net
+Name Server:                     asia1.akam.net
+Name Server:                     ns1-24.akam.net
+Name Server:                     ns1-50.akam.net
+Name Server:                     usw1.akam.net
+DNSSEC:                          unsigned

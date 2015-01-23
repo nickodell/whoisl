@@ -1,0 +1,21 @@
+Domain Name: pchome.com.tw
+Registrant:
+網路家庭國際資訊股份有限公司
+PChome Online Inc.
+12F No.105, Sec.2 Tun-Hwa South Road. Taipei,Taiwan, R.O.C
+
+   Contact:
+      Ning Chih Lun   domain@staff.pchome.com.tw
+      TEL:  886 0227000898
+      FAX:  886 0227095021
+
+   Record expires on 2015-05-31 (YYYY-MM-DD)
+   Record created on 1985-07-04 (YYYY-MM-DD)
+
+   Domain servers in listed order:
+      dns.pchome.com.tw         210.59.230.85
+      eagle.pchome.com.tw       210.59.230.88
+      tiger.pchome.com.tw       210.59.230.89
+
+Registration Service Provider: PCHOME
+

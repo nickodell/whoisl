@@ -1,0 +1,19 @@
+% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:        IPICTURE.RU
+nserver:       ns1.hc.ru.
+nserver:       ns2.hc.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+person:        Private Person
+registrar:     R01-RU
+admin-contact: https://partner.r01.ru/contact_admin.khtml
+created:       2007.06.12
+paid-till:     2015.06.12
+free-date:     2015.07.13
+source:        TCI
+
+Last updated on 2015.01.23 04:11:32 MSK
+
