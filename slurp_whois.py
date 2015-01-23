@@ -10,7 +10,8 @@ top = top[:1000] # top 1000 is good enough.
 
 for site in top:
     print "Looking at", site
-    if isfile("testcases/" + site):
+    path = "testcases/" + site + ".txt"
+    if isfile(path):
         continue
     proc = Popen(["whois", site], stdout=PIPE, stderr=PIPE)
     (stdout, stderr) = proc.communicate()
@@ -31,7 +32,7 @@ for site in top:
         print stdout
         print stderr
         sys.exit()
-    open("testcases/" + site, "w").write(stdout)
+    open(path, "w").write(stdout)
     print "Waiting...",
     sys.stdout.flush()
     time.sleep(3)
